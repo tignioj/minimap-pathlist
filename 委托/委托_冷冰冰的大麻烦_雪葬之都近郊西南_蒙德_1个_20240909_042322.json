@@ -1,0 +1,55 @@
+{
+    "name": "委托_冷冰冰的大麻烦_雪葬之都近郊西南",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "DailyMissionPathExecutor",
+    "positions": [
+        {
+            "x": 1610.5125468750011,
+            "y": -3562.0516015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1613.6453593750011,
+            "y": -3539.435390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1593.5848125000011,
+            "y": -3503.9646875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1565.0613750000011,
+            "y": -3462.8621484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 1529.3094218750011,
+            "y": -3418.177578125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "冰盾丘丘暴徒",
+                    "冰盾丘丘人",
+                    "冰盾丘丘人",
+                    "冰史莱姆",
+                    "冰丘丘萨满",
+                    "冰弹丘丘人"
+                ]
+            }
+        }
+    ],
+    "fight_team": null
+}

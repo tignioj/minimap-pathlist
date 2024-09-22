@@ -1,0 +1,91 @@
+{
+    "name": "委托_攀高危险_清泉镇右下",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 2618.9422343749993,
+            "y": -4821.150234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2690.8309062499993,
+            "y": -4894.2117578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2734.4852031249993,
+            "y": -4908.1004296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2769.3016093749993,
+            "y": -4900.75375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2791.6609843749993,
+            "y": -4931.7615625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2827.8387187499993,
+            "y": -4987.0301171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2896.4598124999993,
+            "y": -4960.6394921875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2970.3504374999993,
+            "y": -4932.216640625,
+            "type": "path",
+            "action": "stop_flying",
+            "move_mode": "fly"
+        },
+        {
+            "x": 2970.3504374999993,
+            "y": -4932.216640625,
+            "type": "path",
+            "action": "shield",
+            "move_mode": "normal"
+        },
+        {
+            "x": 2991.5477031249993,
+            "y": -4928.24984375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "shield",
+            "event": {
+                "type": "destroy"
+            }
+        },
+        {
+            "x": 2994.4227031249993,
+            "y": -4961.01546875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "destroy"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

@@ -1,0 +1,120 @@
+{
+    "name": "海灵芝_曚云神社西",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 1948.3504375000011,
+            "y": 6427.275546875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1912.5008281250011,
+            "y": 6428.19546875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1863.7078593750011,
+            "y": 6438.521640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1825.0398906250011,
+            "y": 6445.588046875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1787.7742656250011,
+            "y": 6396.90640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1762.2020000000011,
+            "y": 6360.793125,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 1737.6102031250011,
+            "y": 6332.556796875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 1729.6180156250011,
+            "y": 6334.07046875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1718.9324687500011,
+            "y": 6337.605625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1682.4266093750011,
+            "y": 6383.918125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1688.2020000000011,
+            "y": 6394.779453125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1668.7312968750011,
+            "y": 6442.0978125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1647.5828593750011,
+            "y": 6491.6446875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1590.0496562500011,
+            "y": 6521.861484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1582.4969218750011,
+            "y": 6526.62515625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1521.5398906250011,
+            "y": 6506.82828125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "委托_为了执行官大人_雪山左上角",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 1903.0769999999993,
+            "y": -3715.431484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1889.4949687499993,
+            "y": -3819.2176171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1885.5320781249993,
+            "y": -3903.642421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1853.4891093749993,
+            "y": -3950.2898828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1818.4539531249993,
+            "y": -3986.8367578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 1788.5965312499993,
+            "y": -4024.9578515625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "岩使",
+                    "雷锤"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "丘丘萨满_千风神殿左下",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3806.7430156249993,
+            "y": -5835.61556640625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3792.8973124999993,
+            "y": -5744.60287109375
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 3783.4598124999993,
+            "y": -5668.46029296875
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 3776.4598124999993,
+            "y": -5614.46029296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 3764.6531718749993,
+            "y": -5615.9324609375
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "委托_临危受命_奔狼领_消灭遗迹守卫",
+    "anchor_name": "塞西莉亚苗圃",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 1271.1121562499993,
+            "y": -5754.33041015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1247.6121562499993,
+            "y": -5696.986171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1267.1512187499993,
+            "y": -5657.31673828125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1303.6082499999993,
+            "y": -5624.6258203125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1356.7117656249993,
+            "y": -5601.89681640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1408.8133281249993,
+            "y": -5611.365078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 1445.7605937499993,
+            "y": -5618.2146875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "遗迹守卫"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

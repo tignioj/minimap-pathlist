@@ -1,0 +1,57 @@
+{
+    "name": "海灵芝_天云峠北方",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 9128.260593750001,
+            "y": 7900.7696875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 9215.041843750001,
+            "y": 7827.759532775879,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 9286.989109375001,
+            "y": 7779.804454650879,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 9278.549656250001,
+            "y": 7766.736484375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 9262.897312500001,
+            "y": 7771.509921875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 9256.119968750001,
+            "y": 7762.631236877442,
+            "type": "path",
+            "action": "",
+            "move_mode": "normal"
+        },
+        {
+            "x": 9261.705906250001,
+            "y": 7744.07828125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

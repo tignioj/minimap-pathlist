@@ -1,0 +1,155 @@
+{
+    "name": "盗宝团_奥藏山东北2",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1439.4190937499989,
+            "y": -3617.4305078125
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -1491.3390156249989,
+            "y": -3630.6492578125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1584.4874531249989,
+            "y": -3647.7146875
+        },
+        {
+            "x": -1618.7276874999989,
+            "y": -3610.22640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1638.3663593749989,
+            "y": -3585.7156640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1666.2140156249989,
+            "y": -3582.863125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1707.5421406249989,
+            "y": -3588.99984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1751.3819843749989,
+            "y": -3578.7195703125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1780.2433124999989,
+            "y": -3550.283046875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1810.5714374999989,
+            "y": -3511.2664453125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1831.3995624999989,
+            "y": -3468.69515625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1863.6065937499989,
+            "y": -3431.4637109375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1910.7940937499989,
+            "y": -3419.4324609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1938.3390156249989,
+            "y": -3428.3133203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1952.2315937499989,
+            "y": -3464.7771875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1938.5128437499989,
+            "y": -3444.5555078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1901.3331562499989,
+            "y": -3459.62484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1884.5460468749989,
+            "y": -3502.2840234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1903.4835468749989,
+            "y": -3525.6883203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1900.5948749999989,
+            "y": -3568.0418359375,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": -1924.3604999999989,
+            "y": -3585.2410546875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

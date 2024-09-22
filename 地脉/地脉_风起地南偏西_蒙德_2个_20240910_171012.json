@@ -1,0 +1,72 @@
+{
+    "name": "地脉_风起地南偏西",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 3056.918796875001,
+            "y": -4433.2859765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3055.016453125001,
+            "y": -4467.0848046875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3064.532078125001,
+            "y": -4535.863125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 3070.750828125001,
+            "y": -4584.7937890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3061.231296875001,
+            "y": -4639.1365625,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 3060.149265625001,
+            "y": -4746.74203125,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 3063.373875000001,
+            "y": -4786.533046875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3065.686375000001,
+            "y": -4820.3894921875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 3065.756687500001,
+            "y": -4820.4363671875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

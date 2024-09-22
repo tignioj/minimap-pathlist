@@ -1,0 +1,51 @@
+{
+    "name": "地脉_晨曦酒庄东",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 1943.0418437500011,
+            "y": -4955.2117578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1920.1219218750011,
+            "y": -4941.7488671875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1869.2020000000011,
+            "y": -4900.0047265625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1851.3152812500011,
+            "y": -4890.0164453125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 1836.7703593750011,
+            "y": -4866.220546875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 1840.41293,
+            "y": -4872.416835,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

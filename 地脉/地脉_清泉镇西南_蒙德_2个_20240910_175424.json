@@ -1,0 +1,72 @@
+{
+    "name": "地脉_清泉镇西南",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 1948.1766093750011,
+            "y": -4946.849453125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1973.5887187500011,
+            "y": -4931.4676171875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 2030.9461406250011,
+            "y": -4881.0008203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2078.811375000001,
+            "y": -4858.079921875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2122.762546875001,
+            "y": -4822.4012109375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2165.145359375001,
+            "y": -4811.326015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2200.619968750001,
+            "y": -4824.6101953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 2227.555515625001,
+            "y": -4847.056484375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 2227.934421875001,
+            "y": -4845.915859375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

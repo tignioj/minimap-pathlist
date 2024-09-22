@@ -1,0 +1,60 @@
+{
+    "name": "委托_邪恶的扩张_奔狼领左上",
+    "anchor_name": "塞西莉亚苗圃",
+    "country": "蒙德",
+    "executor": "DailyMissionPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1278.9363749999993,
+            "y": -5755.5574609375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1220.5105937499993,
+            "y": -5826.1844140625
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": 1240.2234843749993,
+            "y": -5854.77181640625
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": 1211.9168437499993,
+            "y": -5863.11654296875
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1153.9930156249993,
+            "y": -5857.09017578125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1110.1512187499993,
+            "y": -5890.1990625,
+            "event": {
+                "targets": [
+                    "火深渊法师",
+                    "爆弹丘丘人",
+                    "爆弹丘丘人",
+                    "打手丘丘人",
+                    "打手丘丘人"
+                ],
+                "type": "fight"
+            }
+        }
+    ]
+}

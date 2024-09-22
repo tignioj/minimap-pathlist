@@ -1,0 +1,107 @@
+{
+    "name": "地脉_达达乌帕谷",
+    "anchor_name": "鹰之门",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 4529.143406250001,
+            "y": -3893.892421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4490.260593750001,
+            "y": -3932.175625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4454.409031250001,
+            "y": -3939.5398828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4410.797703125001,
+            "y": -3937.279140625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 4333.844578125001,
+            "y": -3992.1844140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4319.920750000001,
+            "y": -4008.165859375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4235.194187500001,
+            "y": -4047.2615625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4196.817234375001,
+            "y": -4107.001796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4170.526218750001,
+            "y": -4153.6609765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4110.729343750001,
+            "y": -4150.89046875,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 4108.297703125001,
+            "y": -4101.613125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4109.864109375001,
+            "y": -4041.6375390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 4110.883640625001,
+            "y": -4027.3475,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 4111.073093750001,
+            "y": -4027.314296875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

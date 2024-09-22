@@ -1,0 +1,92 @@
+{
+    "name": "委托_危险运输现象_望风角",
+    "anchor_name": "传送锚点",
+    "enable": false,
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 4047.7273906249993,
+            "y": -6905.2176171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4004.5262187499993,
+            "y": -6927.1258203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3953.4617656249993,
+            "y": -6943.55404296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3915.2508281249993,
+            "y": -6938.4637109375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3875.7059062499993,
+            "y": -6910.04134765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3853.1668437499993,
+            "y": -6872.509609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3849.9812968749993,
+            "y": -6831.01791015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3860.9832499999993,
+            "y": -6764.4832421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3901.3230937499993,
+            "y": -6740.6238671875,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 3939.0574687499993,
+            "y": -6772.61751953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3966.8523906249993,
+            "y": -6822.20736328125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "丘丘人"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

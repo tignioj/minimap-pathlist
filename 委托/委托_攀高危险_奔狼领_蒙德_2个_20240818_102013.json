@@ -1,0 +1,35 @@
+{
+    "name": "攀高危险_奔狼领",
+    "country": "蒙德",
+    "anchor_name": "传送锚点",
+    "positions": [
+        {
+            "x": 1841.0164531249993,
+            "y": -5597.47591796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 1821.6355937499993,
+            "y": -5652.67904296875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "shield",
+            "event": {
+                "type": "destroy"
+            }
+        },
+        {
+            "x": 1790.6668437499993,
+            "y": -5687.16927734375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "destroy"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

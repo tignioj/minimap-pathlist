@@ -1,0 +1,71 @@
+{
+    "name": "海灵芝_踏鞴沙右下",
+    "anchor_name": "借景之馆",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 7250.475437500001,
+            "y": 6504.439609375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 7306.659031250001,
+            "y": 6494.271640625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 7350.821140625001,
+            "y": 6474.154453125
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 7369.465671875001,
+            "y": 6418.584140625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 7354.473484375001,
+            "y": 6411.36734375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 7321.910984375001,
+            "y": 6395.20328125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 7330.377781250001,
+            "y": 6386.13296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 7321.735203125001,
+            "y": 6350.138828125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 7343.649265625001,
+            "y": 6302.54703125
+        }
+    ]
+}

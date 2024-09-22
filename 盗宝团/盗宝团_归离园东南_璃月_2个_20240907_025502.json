@@ -1,0 +1,58 @@
+{
+    "name": "盗宝团_归离园东南",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 683.7937968750011,
+            "y": -1515.5652734374999
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 707.2977031250011,
+            "y": -1489.1287499999999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 711.0105937500011,
+            "y": -1478.1805078124999
+        },
+        {
+            "x": 776.0105937500011,
+            "y": -1415.6277734374999,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 818.1687968750011,
+            "y": -1330.9910546874999,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 878.6883281250011,
+            "y": -1336.3641015624999,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 922.4734843750011,
+            "y": -1340.6121484374999,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ],
+    "fight_team": null
+}

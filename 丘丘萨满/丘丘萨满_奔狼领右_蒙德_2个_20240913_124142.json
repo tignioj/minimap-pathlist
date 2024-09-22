@@ -1,0 +1,93 @@
+{
+    "name": "丘丘萨满_奔狼领右",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1942.5574687499993,
+            "y": -4955.158046875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1932.9207499999993,
+            "y": -5002.2605859375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1940.9012187499993,
+            "y": -5084.0379296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1936.6922343749993,
+            "y": -5150.3797265625
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1937.8797343749993,
+            "y": -5256.353359375
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1935.3309062499993,
+            "y": -5310.2488671875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1943.4656718749993,
+            "y": -5355.935390625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1972.6570781249993,
+            "y": -5409.46908203125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1936.8875468749993,
+            "y": -5450.61458984375
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1871.1551249999993,
+            "y": -5531.24935546875
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1843.2410624999993,
+            "y": -5594.37435546875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1822.1023906249993,
+            "y": -5646.0613671875
+        }
+    ],
+    "fight_team": null
+}

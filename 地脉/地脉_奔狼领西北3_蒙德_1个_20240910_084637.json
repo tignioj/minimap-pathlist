@@ -1,0 +1,65 @@
+{
+    "name": "地脉_奔狼领西北3",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 1559.9324687500011,
+            "y": -5829.03060546875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1540.9246562500011,
+            "y": -5882.50619140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1534.4930156250011,
+            "y": -5915.5320703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1497.4832500000011,
+            "y": -5943.035,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1539.1219218750011,
+            "y": -5978.5476953125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1500.0535625000011,
+            "y": -6017.747890625,
+            "type": "path",
+            "move_mode": "jump",
+            "action": "shield"
+        },
+        {
+            "x": 1445.2547343750011,
+            "y": -6061.66439453125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 1445.2547343750011,
+            "y": -6061.66439453125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

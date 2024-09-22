@@ -1,0 +1,70 @@
+{
+  "name": "月莲_桓那兰那",
+  "anchor_name": "传送锚点",
+  "country": "须弥",
+  "positions": [
+    {
+      "x": -6071.834132812501,
+      "y": -1023.7830468749999,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -6138.536281250001,
+      "y": -974.1775781249999,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -6161.536281250001,
+      "y": -906.8435937499999,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -6182.920070312501,
+      "y": -868.3494531249999,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -6235.503078125001,
+      "y": -842.0057031249999,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -6276.432765625001,
+      "y": -839.1443749999999,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -6281.376125000001,
+      "y": -827.0281640624999,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -6255.867335937501,
+      "y": -805.9285546874999,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -6230.120265625001,
+      "y": -806.6141015624999,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    }
+  ]
+}

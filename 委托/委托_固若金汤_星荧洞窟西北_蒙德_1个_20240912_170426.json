@@ -1,0 +1,52 @@
+{
+    "name": "委托_固若金汤_星荧洞窟西北",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 2202.426609375001,
+            "y": -3089.0730859375
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 2142.801609375001,
+            "y": -3112.138515625
+        },
+        {
+            "x": 2117.547703125001,
+            "y": -3125.925625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 2118.584812500001,
+            "y": -3121.986171875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "defense",
+                "targets": []
+            }
+        },
+        {
+            "x": 2137.344578125001,
+            "y": -3119.269375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "defense",
+                "targets": []
+            }
+        }
+    ],
+    "fight_team": null
+}

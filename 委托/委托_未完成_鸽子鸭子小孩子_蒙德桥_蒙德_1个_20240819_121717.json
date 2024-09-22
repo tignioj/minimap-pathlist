@@ -1,0 +1,112 @@
+{
+    "name": "委托_鸽子鸭子小孩子_蒙德桥",
+    "anchor_name": "传送锚点",
+    "enable": false,
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 3036.9637187499993,
+            "y": -5632.1590234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2950.7605937499993,
+            "y": -5605.185390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2891.3680156249993,
+            "y": -5590.0379296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2828.0223124999993,
+            "y": -5609.5398828125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "dialog",
+                "click_text": [
+                    "抱歉",
+                    "没问题"
+                ]
+            }
+        },
+        {
+            "x": 2918.2664531249993,
+            "y": -5592.122890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2947.2156718749993,
+            "y": -5642.1678125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2951.3875468749993,
+            "y": -5675.42953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2931.6687968749993,
+            "y": -5693.98080078125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "dialog",
+                "click_text": [
+                    "知道了"
+                ]
+            }
+        },
+        {
+            "x": 2967.3719218749993,
+            "y": -5662.8074609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2940.5457499999993,
+            "y": -5604.411953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2904.2703593749993,
+            "y": -5587.3426171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2826.9344218749993,
+            "y": -5608.52767578125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "dialog",
+                "click_text": [
+                    "知道了"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

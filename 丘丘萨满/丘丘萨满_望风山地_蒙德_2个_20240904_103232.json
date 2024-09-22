@@ -1,0 +1,113 @@
+{
+    "name": "丘丘萨满_望风山地",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 4045.1512187499993,
+            "y": -6906.9441796875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3995.1648906249993,
+            "y": -6929.14486328125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3932.0379374999993,
+            "y": -6945.60091796875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3874.1023906249993,
+            "y": -6912.94662109375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3834.1473124999993,
+            "y": -6871.8621484375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3802.8660624999993,
+            "y": -6835.08626953125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 3769.4910624999993,
+            "y": -6834.9949609375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3748.1727031249993,
+            "y": -6794.87630859375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3773.4227031249993,
+            "y": -6750.50716796875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3784.5809062499993,
+            "y": -6698.535
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3759.4422343749993,
+            "y": -6642.2781640625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3694.3914531249993,
+            "y": -6605.23568359375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3660.9051249999993,
+            "y": -6629.06283203125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3635.1199687499993,
+            "y": -6643.68978515625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 3606.5887187499993,
+            "y": -6657.77474609375
+        }
+    ]
+}

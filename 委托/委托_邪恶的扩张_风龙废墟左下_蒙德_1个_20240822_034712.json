@@ -1,0 +1,53 @@
+{
+    "name": "委托_邪恶的扩张_风龙废墟左下",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 108.58481249999932,
+            "y": -6400.31966796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 191.37094531249932,
+            "y": -6374.37484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 272.1414531249993,
+            "y": -6362.7820703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 321.5623515624993,
+            "y": -6350.5965234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 349.9197734374993,
+            "y": -6314.5047265625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "水深渊法师",
+                    "木盾丘丘人",
+                    "爆弹丘丘人",
+                    "打手丘丘人",
+                    "打手丘丘人"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

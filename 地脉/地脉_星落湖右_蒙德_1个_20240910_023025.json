@@ -1,0 +1,37 @@
+{
+    "name": "地脉_星落湖右",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 3440.914890625001,
+            "y": -6369.29916015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3525.893406250001,
+            "y": -6376.48373046875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3582.057468750001,
+            "y": -6379.5574609375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 3582.057468750001,
+            "y": -6379.5574609375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

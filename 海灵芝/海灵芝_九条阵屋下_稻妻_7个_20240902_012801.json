@@ -1,0 +1,113 @@
+{
+    "name": "海灵芝_九条阵屋下",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 7584.512546875001,
+            "y": 5870.685703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7550.440281250001,
+            "y": 5878.349765625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 7519.045750000001,
+            "y": 5850.451328125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7572.493015625001,
+            "y": 5770.1525,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7618.760593750001,
+            "y": 5752.279453125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7673.879734375001,
+            "y": 5738.45328125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7710.895359375001,
+            "y": 5713.85953125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7700.522312500001,
+            "y": 5690.423984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7660.741062500001,
+            "y": 5676.5978125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7624.733250000001,
+            "y": 5651.9025,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7601.235203125001,
+            "y": 5627.574375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7577.528171875001,
+            "y": 5607.048984375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7526.088718750001,
+            "y": 5639.732578125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7467.987156250001,
+            "y": 5634.607578125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7449.955906250001,
+            "y": 5629.353671875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

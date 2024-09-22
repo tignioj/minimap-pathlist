@@ -1,0 +1,79 @@
+{
+    "name": "地脉_清泉镇东",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 2617.110203125001,
+            "y": -4820.8601953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2676.293796875001,
+            "y": -4882.3504296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2728.284031250001,
+            "y": -4905.64828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2774.535984375001,
+            "y": -4901.0945703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2795.655125000001,
+            "y": -4948.326015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2811.018406250001,
+            "y": -5002.0750390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2833.479343750001,
+            "y": -5043.161953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2860.241062500001,
+            "y": -5078.8016015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 2874.034031250001,
+            "y": -5094.615078125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 2874.135593750001,
+            "y": -5094.451015625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

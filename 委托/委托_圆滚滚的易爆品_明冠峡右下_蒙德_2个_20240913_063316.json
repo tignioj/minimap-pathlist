@@ -1,0 +1,65 @@
+{
+    "name": "委托_圆滚滚的易爆品_明冠峡右下",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "DailyMissionPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1662.4422343749993,
+            "y": -6405.0164453125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1733.3348124999993,
+            "y": -6420.58626953125
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1812.6883281249993,
+            "y": -6453.6941796875
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1812.6883281249993,
+            "y": -6453.6941796875
+        },
+        {
+            "action": "shield",
+            "event": {
+                "targets": [
+                    "木盾丘丘暴徒",
+                    "火史莱姆",
+                    "爆弹丘丘人",
+                    "爆弹丘丘人"
+                ],
+                "type": "fight"
+            },
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1857.9129374999993,
+            "y": -6441.99447265625
+        },
+        {
+            "action": "",
+            "event": {
+                "targets": [
+                    "火史莱姆"
+                ],
+                "type": "fight"
+            },
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1883.0750468750011,
+            "y": -6461.3218309020995
+        }
+    ]
+}

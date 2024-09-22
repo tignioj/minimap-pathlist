@@ -1,0 +1,60 @@
+{
+    "name": "委托_邪恶的扩张_明冠峡",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 1659.4246562499993,
+            "y": -6403.251796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1705.8680156249993,
+            "y": -6488.154140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1736.7000468749993,
+            "y": -6585.55208984375,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 1764.3289531249993,
+            "y": -6664.2459375,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 1764.3289531249993,
+            "y": -6664.2459375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 1775.7254374999993,
+            "y": -6712.0476953125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "火深渊法师",
+                    "打手丘丘人",
+                    "打手丘丘人",
+                    "爆弹丘丘人",
+                    "爆弹丘丘人"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

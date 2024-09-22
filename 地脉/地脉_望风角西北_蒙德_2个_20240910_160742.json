@@ -1,0 +1,65 @@
+{
+    "name": "地脉_望风角西北",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 4047.530125000001,
+            "y": -6905.7303125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4049.067234375001,
+            "y": -6949.64876953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4037.549656250001,
+            "y": -7014.94662109375,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 4066.950046875001,
+            "y": -7072.36068359375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4092.157078125001,
+            "y": -7129.70833984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4160.229343750001,
+            "y": -7174.6941796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 4211.592625000001,
+            "y": -7206.25375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 4213.227390625001,
+            "y": -7207.60287109375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

@@ -1,0 +1,44 @@
+{
+    "name": "地脉_星落湖东南",
+    "anchor_name": "仲夏庭园",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 3911.266453125001,
+            "y": -6222.13509765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3860.731296875001,
+            "y": -6239.587734375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3777.952000000001,
+            "y": -6268.3738671875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3737.385593750001,
+            "y": -6279.82650390625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 3737.385593750001,
+            "y": -6279.82650390625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

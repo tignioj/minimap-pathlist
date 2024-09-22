@@ -1,0 +1,57 @@
+{
+    "name": "海灵芝_清籁丸西北",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 8150.639500000001,
+            "y": 7324.074375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8158.078953125001,
+            "y": 7376.170078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8138.432468750001,
+            "y": 7405.412257995606,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8152.733250000001,
+            "y": 7392.230625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8119.664890625001,
+            "y": 7376.5978125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8050.319187500001,
+            "y": 7314.637821044922,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8089.346531250001,
+            "y": 7269.5821875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "委托_语言交流_风龙废墟右上",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "mission_position_index": 3,
+    "enable": false,
+    "positions": [
+        {
+            "x": 967.8230937499993,
+            "y": -6809.14291015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 921.2469218749993,
+            "y": -6818.392421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 860.2996562499993,
+            "y": -6832.865078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 809.3348124999993,
+            "y": -6848.72787109375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "find_npc",
+                "target": "艾拉"
+            }
+        },
+        {
+            "x": 757.7820781249993,
+            "y": -6809.21029296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 704.5252421874993,
+            "y": -6761.34115234375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "find_npc",
+                "dialog": [
+                    "艾拉"
+                ]
+            }
+        },
+        {
+            "x": 645.3289531249993,
+            "y": -6774.3475,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "dialog"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "委托_丘丘人的一小步_晨曦酒庄右",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 1945.7488749999993,
+            "y": -4952.6531640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1999.0730937499993,
+            "y": -4903.1863671875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 2062.1785624999993,
+            "y": -4849.1648828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 2091.7195781249993,
+            "y": -4823.161953125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "木盾丘丘暴徒",
+                    "火箭丘丘人",
+                    "火箭丘丘人",
+                    "冰箭丘丘人",
+                    "冰箭丘丘人"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

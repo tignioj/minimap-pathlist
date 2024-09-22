@@ -1,0 +1,60 @@
+{
+    "name": "委托_说到做到_清泉镇右下角2",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "enable": false,
+    "positions": [
+        {
+            "x": 3057.6551249999993,
+            "y": -4433.6980859375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3091.6473124999993,
+            "y": -4464.43734375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3135.2469218749993,
+            "y": -4504.138515625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "stop_flying"
+        },
+        {
+            "x": 3175.9969218749993,
+            "y": -4551.6062890625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 3175.9969218749993,
+            "y": -4551.6062890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3171.4266093749993,
+            "y": -4542.189296875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "火斧丘丘暴徒",
+                    "射手丘丘人",
+                    "射手丘丘人",
+                    "射手丘丘人"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

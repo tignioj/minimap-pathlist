@@ -1,0 +1,53 @@
+{
+    "name": "委托_丘丘人的一小步_西风之鹰副本左上角",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 3035.5750468749993,
+            "y": -5632.122890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3062.1727031249993,
+            "y": -5620.19369140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3099.6824687499993,
+            "y": -5622.68294921875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3145.3621562499993,
+            "y": -5648.044765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3166.2996562499993,
+            "y": -5672.98373046875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "木遁丘丘暴徒",
+                    "打手丘丘人",
+                    "打手丘丘人",
+                    "冰箭丘丘人",
+                    "射手丘丘人"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

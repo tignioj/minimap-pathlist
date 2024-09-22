@@ -1,0 +1,28 @@
+{
+    "name": "委托_餐品订单_蒙德城内1",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "enable": false,
+    "note": "蒙德城内视角识别不太好",
+    "positions": [
+        {
+            "x": 2539.9129374999993,
+            "y": -5795.70833984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2566.4363749999993,
+            "y": -5722.72298828125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "find_npc",
+                "target": "莎拉"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

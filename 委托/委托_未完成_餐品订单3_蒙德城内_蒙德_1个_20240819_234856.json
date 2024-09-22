@@ -1,0 +1,26 @@
+{
+    "name": "委托_餐品订单3_蒙德城内",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "enable": false,
+    "positions": [
+        {
+            "x": 2541.4949687499993,
+            "y": -5794.57357421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2566.7117656249993,
+            "y": -5723.3211328125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "find_npc"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

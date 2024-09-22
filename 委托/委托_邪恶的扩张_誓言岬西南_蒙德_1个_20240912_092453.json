@@ -1,0 +1,54 @@
+{
+    "name": "委托_邪恶的扩张_誓言岬西南",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "DailyMissionPathExecutor",
+    "positions": [
+        {
+            "x": 4794.252781250001,
+            "y": -4116.1570703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4768.493015625001,
+            "y": -4105.0594140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4707.295750000001,
+            "y": -4066.675625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 4685.623875000001,
+            "y": -4063.3562890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 4661.309421875001,
+            "y": -4065.5144921875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "火深渊法师",
+                    "爆弹丘丘人",
+                    "爆弹丘丘人",
+                    "打手丘丘人",
+                    "打手丘丘人"
+                ]
+            }
+        }
+    ],
+    "fight_team": null
+}

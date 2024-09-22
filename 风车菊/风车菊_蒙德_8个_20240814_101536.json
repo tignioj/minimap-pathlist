@@ -1,0 +1,90 @@
+{
+  "name": "风车菊",
+  "country": "蒙德",
+  "positions": [
+    {
+      "x": 1948.1004374999993,
+      "y": -4946.665859375,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1942.1199687499993,
+      "y": -4934.165859375,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1918.4598124999993,
+      "y": -4927.8621484375,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1918.4988749999993,
+      "y": -4928.01546875,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1913.0730937499993,
+      "y": -4930.71078125,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1944.0496562499993,
+      "y": -4931.6082421875,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1959.2840312499993,
+      "y": -4982.21078125,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1956.5750468749993,
+      "y": -4985.4178125,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1958.6121562499993,
+      "y": -4994.5867578125,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1937.4148906249993,
+      "y": -4990.7771875,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1881.3699687499993,
+      "y": -4991.1746484375,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": 1887.2410624999993,
+      "y": -4982.8074609375,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    }
+  ]
+}

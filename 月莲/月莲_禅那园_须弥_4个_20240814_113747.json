@@ -1,0 +1,55 @@
+{
+  "name": "月莲_禅那园",
+  "country": "须弥",
+  "positions": [
+    {
+      "x": -6004.481593750001,
+      "y": 1108.8985937500001,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -5962.390773437501,
+      "y": 1026.7452734375001,
+      "type": "path",
+      "move_mode": "fly",
+      "action": ""
+    },
+    {
+      "x": -5941.997218750001,
+      "y": 983.4200781250001,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying"
+    },
+    {
+      "x": -5902.497218750001,
+      "y": 930.7374609375001,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -5870.142726562501,
+      "y": 934.3898046875001,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -5843.193507812501,
+      "y": 954.8556250000001,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -5833.772609375001,
+      "y": 948.7325781250001,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    }
+  ]
+}

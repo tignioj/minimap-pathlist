@@ -1,0 +1,134 @@
+{
+    "name": "海灵芝_天云峠右上",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9745.037937500001,
+            "y": 7913.8790625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9755.328953125001,
+            "y": 7868.034923400879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9815.494968750001,
+            "y": 7861.704845275879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9846.278171875001,
+            "y": 7855.161876525879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9874.832859375001,
+            "y": 7875.943126525879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9914.274265625001,
+            "y": 7860.665782775879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9968.737156250001,
+            "y": 7846.909923400879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 10002.110203125001,
+            "y": 7875.1603125
+        },
+        {
+            "action": "",
+            "move_mode": "swim",
+            "type": "path",
+            "x": 10045.026218750001,
+            "y": 7857.708751525879
+        },
+        {
+            "action": "",
+            "move_mode": "swim",
+            "type": "path",
+            "x": 10097.026218750001,
+            "y": 7841.708751525879
+        },
+        {
+            "action": "",
+            "move_mode": "swim",
+            "type": "path",
+            "x": 10152.258640625001,
+            "y": 7830.994296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 10170.942234375001,
+            "y": 7857.918125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 10216.782078125001,
+            "y": 7894.9571875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 10253.918796875001,
+            "y": 7895.306796875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 10277.645359375001,
+            "y": 7844.498203125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 10279.797703125001,
+            "y": 7792.872424926758
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 10272.743015625001,
+            "y": 7764.259921875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 10209.694187500001,
+            "y": 7723.131015625
+        }
+    ]
+}

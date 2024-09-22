@@ -1,0 +1,78 @@
+{
+    "name": "地脉_奔狼领西",
+    "anchor_name": "塞西莉亚苗圃",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1272.7957500000011,
+            "y": -5753.868984375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1271.4793437500011,
+            "y": -5717.3074609375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1270.1004375000011,
+            "y": -5693.25619140625
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": 1267.4246562500011,
+            "y": -5658.7771875
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": 1297.6121562500011,
+            "y": -5625.30501953125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1334.9520000000011,
+            "y": -5609.03060546875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1366.7566875000011,
+            "y": -5594.55453125
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1403.9148906250011,
+            "y": -5568.49056640625
+        },
+        {
+            "action": "fight",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1429.5145000000011,
+            "y": -5553.64779296875
+        },
+        {
+            "action": "reward",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1429.6883281250011,
+            "y": -5553.7078515625
+        }
+    ]
+}

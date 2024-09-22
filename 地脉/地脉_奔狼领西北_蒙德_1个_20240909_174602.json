@@ -1,0 +1,58 @@
+{
+    "name": "地脉_奔狼领西北",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 1561.0027812500011,
+            "y": -5829.05697265625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1520.5223125000011,
+            "y": -5846.2801171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1482.7625468750011,
+            "y": -5848.21126953125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1426.6062968750011,
+            "y": -5865.85970703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1396.9246562500011,
+            "y": -5884.9461328125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": "shield"
+        },
+        {
+            "x": 1353.6922343750011,
+            "y": -5861.400234375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 1353.6922343750011,
+            "y": -5861.400234375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

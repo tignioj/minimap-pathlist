@@ -1,0 +1,176 @@
+{
+    "name": "树王圣体菇_无郁稠林_右下角地面",
+    "anchor_name": "传送锚点",
+    "country": "须弥",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3893.9562031250007,
+            "y": -1230.7517968749999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3889.5382343750007,
+            "y": -1265.2029687499999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3887.7032734375007,
+            "y": -1292.1902734374999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3864.2853046875007,
+            "y": -1330.6541406249999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3832.6329609375007,
+            "y": -1353.5096093749999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3820.7569843750007,
+            "y": -1347.9529687499999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3821.1681171875007,
+            "y": -1359.7664453124999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3811.3907734375007,
+            "y": -1372.6521874999999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3790.541164062499,
+            "y": -1354.559963378906
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": -3798.2374531250007,
+            "y": -1343.3621484374999
+        },
+        {
+            "action": "shield",
+            "move_mode": "jump",
+            "type": "path",
+            "x": -3773.5851093750007,
+            "y": -1342.5037499999999
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "target",
+            "x": -3763.1788593750007,
+            "y": -1343.4314843749999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3749.9435078125007,
+            "y": -1356.2351953124999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3725.9620625000007,
+            "y": -1333.0418359374999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3704.6192890625007,
+            "y": -1305.5017968749999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3691.2052265625007,
+            "y": -1301.7742578124999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3700.6056171875007,
+            "y": -1301.4422265624999
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3730.5606953125007,
+            "y": -1347.2693749999999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3749.9044453125007,
+            "y": -1376.3064843749999
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3733.5245625000007,
+            "y": -1410.4607812499999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3721.3751484375007,
+            "y": -1400.4607812499999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3735.0685078125007,
+            "y": -1420.7986718749999
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3723.067531249999,
+            "y": -1461.540271911621
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3708.7804218750007,
+            "y": -1468.5965234374999
+        }
+    ]
+}

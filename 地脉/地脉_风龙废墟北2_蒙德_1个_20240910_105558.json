@@ -1,0 +1,58 @@
+{
+    "name": "地脉_风龙废墟北2",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 255.90317187500114,
+            "y": -7078.1062890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 279.38559375000114,
+            "y": -7072.5271875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 337.37778125000114,
+            "y": -7094.87240234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 386.40903125000114,
+            "y": -7119.4725,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 444.76254687500114,
+            "y": -7147.833828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 487.19028125000114,
+            "y": -7167.08138671875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 480.33871875000114,
+            "y": -7173.01302734375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

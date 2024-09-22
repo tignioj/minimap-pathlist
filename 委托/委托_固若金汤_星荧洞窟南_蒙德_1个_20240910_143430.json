@@ -1,0 +1,90 @@
+{
+    "name": "委托_固若金汤_星荧洞窟南",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "DailyMissionPathExecutor",
+    "positions": [
+        {
+            "x": 2805.577000000001,
+            "y": -2953.775234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2752.547703125001,
+            "y": -2933.372890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2709.268406250001,
+            "y": -2924.5808984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2660.662937500001,
+            "y": -2895.49984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2636.811375000001,
+            "y": -2851.3553125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2607.817234375001,
+            "y": -2795.0115625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 2560.575046875001,
+            "y": -2738.8641015625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 2521.953953125001,
+            "y": -2693.1531640625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 2492.108250000001,
+            "y": -2650.74203125,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 2439.635593750001,
+            "y": -2585.06625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 2427.088718750001,
+            "y": -2574.247890625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "shield",
+            "event": {
+                "type": "defense",
+                "targets": []
+            }
+        }
+    ],
+    "fight_team": null
+}

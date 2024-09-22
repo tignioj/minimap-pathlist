@@ -1,0 +1,57 @@
+{
+    "name": "海灵芝_绀田村左上角",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 8873.446140625001,
+            "y": 4075.806796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8835.280125000001,
+            "y": 4022.4728125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8836.702000000001,
+            "y": 3950.021640625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8853.108250000001,
+            "y": 3952.9415625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8877.756687500001,
+            "y": 3935.970859375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8850.912937500001,
+            "y": 3905.873203125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8868.338718750001,
+            "y": 3855.447421875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

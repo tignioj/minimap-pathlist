@@ -1,0 +1,60 @@
+{
+    "name": "委托_邪恶的扩张_望风山地右",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 4047.5223124999993,
+            "y": -6905.2840234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4001.0047343749993,
+            "y": -6927.0574609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3952.2703593749993,
+            "y": -6938.94271484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3900.1434062499993,
+            "y": -6931.247890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3832.4754374999993,
+            "y": -6897.05892578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3777.8035624999993,
+            "y": -6853.86458984375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "冰深渊法师",
+                    "打手丘丘人",
+                    "打手丘丘人",
+                    "爆弹丘丘人",
+                    "爆弹丘丘人"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

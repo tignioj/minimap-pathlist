@@ -1,0 +1,63 @@
+{
+    "name": "委托_临危受命_消灭狂风之核_奔狼领左上",
+    "anchor_name": "塞西莉亚苗圃",
+    "country": "蒙德",
+    "executor": "DailyMissionPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1269.8269999999993,
+            "y": -5753.94369140625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1229.4871562499993,
+            "y": -5808.376796875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1225.3289531249993,
+            "y": -5826.84603515625
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": 1241.7742656249993,
+            "y": -5858.7137109375
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": 1234.0086406249993,
+            "y": -5885.71419921875
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1258.2508281249993,
+            "y": -6032.9500390625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1337.7957499999993,
+            "y": -6008.24642578125,
+            "event": {
+                "targets": [
+                    "狂风之核"
+                ],
+                "type": "fight"
+            }
+        }
+    ]
+}

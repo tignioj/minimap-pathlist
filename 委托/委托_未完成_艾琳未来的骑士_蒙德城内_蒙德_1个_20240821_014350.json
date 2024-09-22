@@ -1,0 +1,55 @@
+{
+    "name": "委托_艾琳未来的骑士_蒙德城内",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "enable": false,
+    "positions": [
+        {
+            "x": 2284.9930156249993,
+            "y": -5763.107265625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2302.9930156249993,
+            "y": -5775.10677734375,
+            "type": "path",
+            "action": "stop_flying",
+            "move_mode": "fly"
+        },
+        {
+            "x": 2253.9969218749993,
+            "y": -5774.78158203125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "find_npc",
+                "target": "艾琳"
+            }
+        },
+        {
+            "x": 2260.2684062499993,
+            "y": -5767.81966796875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "destroy_ailin"
+            }
+        },
+        {
+            "x": 2253.5828593749993,
+            "y": -5774.34115234375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "find_npc",
+                "target": "艾琳"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

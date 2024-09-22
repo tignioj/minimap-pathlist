@@ -1,0 +1,100 @@
+{
+    "name": "盗宝团_天衡山南偏西",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "x": -634.0538593749989,
+            "y": 302.81070312500015,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -603.7374531249989,
+            "y": 403.06851562500015,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -590.2843281249989,
+            "y": 451.32730468750015,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -541.3897968749989,
+            "y": 483.54800781250015,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -543.5812031249989,
+            "y": 523.6036718750001,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -551.7003437499989,
+            "y": 548.9112890625001,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -570.1769062499989,
+            "y": 560.6241796875001,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -644.8526874999989,
+            "y": 524.1095312500001,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -723.7120624999989,
+            "y": 460.23257812500015,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -777.0479999999989,
+            "y": 438.87710937500015,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -808.1417499999989,
+            "y": 413.42691406250015,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -859.7296406249989,
+            "y": 374.60660156250015,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -888.1651874999989,
+            "y": 359.22964843750015,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ],
+    "fight_team": null
+}

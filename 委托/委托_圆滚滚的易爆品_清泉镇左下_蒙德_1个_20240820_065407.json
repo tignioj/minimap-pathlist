@@ -1,0 +1,54 @@
+{
+    "name": "委托_圆滚滚的易爆品_清泉镇左下",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 2574.2234843749993,
+            "y": -4597.697109375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2524.9305156249993,
+            "y": -4625.3855859375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2460.8797343749993,
+            "y": -4612.98421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2407.7410624999993,
+            "y": -4542.872890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 2340.0555156249993,
+            "y": -4537.87484375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "火斧丘丘暴徒",
+                    "草丘丘萨满",
+                    "冲锋丘丘人",
+                    "爆弹丘丘人",
+                    "爆弹丘丘人",
+                    "火史莱姆"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

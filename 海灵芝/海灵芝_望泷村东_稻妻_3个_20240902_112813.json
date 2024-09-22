@@ -1,0 +1,57 @@
+{
+    "name": "海灵芝_望泷村东",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 2908.672703125001,
+            "y": 6655.54703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2804.448093750001,
+            "y": 6665.03921875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 2777.766453125001,
+            "y": 6670.261875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 2764.207859375001,
+            "y": 6685.822421875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2742.528171875001,
+            "y": 6680.748203125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2711.479343750001,
+            "y": 6681.43375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2677.510593750001,
+            "y": 6669.14078125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

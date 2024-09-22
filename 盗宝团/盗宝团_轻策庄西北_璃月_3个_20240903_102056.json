@@ -1,0 +1,71 @@
+{
+    "name": "盗宝团_轻策庄西北",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "x": -807.1554218749989,
+            "y": -4821.35921875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -828.9933124999989,
+            "y": -4817.603359375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -876.5011249999989,
+            "y": -4916.021328125,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": -897.4933124999989,
+            "y": -4954.2312890625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": -911.0382343749989,
+            "y": -5002.720546875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -950.2413593749989,
+            "y": -5005.783046875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -956.1261249999989,
+            "y": -5047.6336328125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -959.4776874999989,
+            "y": -5070.4812890625,
+            "type": "target",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": -925.1456562499989,
+            "y": -5047.769375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

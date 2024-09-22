@@ -1,0 +1,71 @@
+{
+  "name": "丘丘萨满_望风角",
+  "anchor_name": "传送锚点",
+  "country": "蒙德",
+  "executor": "FightPathExecutor",
+  "positions": [
+    {
+      "x": 4046.7312968749993,
+      "y": -6905.3113671875,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 4139.635593749999,
+      "y": -6872.0183984375,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 4225.709812499999,
+      "y": -6953.3426171875,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 4268.291843749999,
+      "y": -6988.306484375,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 4298.701999999999,
+      "y": -6984.2918359375,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 4368.121921874999,
+      "y": -6992.49984375,
+      "type": "path",
+      "move_mode": "jump",
+      "action": ""
+    },
+    {
+      "x": 4413.856296874999,
+      "y": -6993.2976953125,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 4458.528171874999,
+      "y": -7011.63314453125,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 4439.957859374999,
+      "y": -7073.39046875,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    }
+  ]
+}

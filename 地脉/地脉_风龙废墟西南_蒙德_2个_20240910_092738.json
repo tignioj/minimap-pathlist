@@ -1,0 +1,72 @@
+{
+    "name": "地脉_风龙废墟西南",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 554.1004375000011,
+            "y": -6542.0418359375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 509.02426562500114,
+            "y": -6532.906597290039,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 479.93442187500114,
+            "y": -6529.567127380371,
+            "type": "path",
+            "action": "",
+            "move_mode": "fly"
+        },
+        {
+            "x": 412.26450000000114,
+            "y": -6568.53060546875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 340.09067187500114,
+            "y": -6622.22201171875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 299.44028125000114,
+            "y": -6651.665859375,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 299.44028125000114,
+            "y": -6651.665859375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 306.74496875000114,
+            "y": -6645.55453125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 320.95004687500114,
+            "y": -6639.75033203125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

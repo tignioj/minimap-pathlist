@@ -1,0 +1,44 @@
+{
+    "name": "地脉_风气地北偏西",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 3323.758640625001,
+            "y": -5096.2859765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3297.377781250001,
+            "y": -5203.169765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3272.053562500001,
+            "y": -5262.2898828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3237.139500000001,
+            "y": -5303.92171875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 3238.139500000001,
+            "y": -5302.978862915039,
+            "type": "target",
+            "action": "reward",
+            "move_mode": "normal"
+        }
+    ],
+    "fight_team": null
+}

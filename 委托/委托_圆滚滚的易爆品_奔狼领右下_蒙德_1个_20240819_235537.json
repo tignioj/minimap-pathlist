@@ -1,0 +1,68 @@
+{
+    "name": "委托_圆滚滚的易爆品_奔狼领右下",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 1838.0828593749993,
+            "y": -5598.21322265625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1820.0652812499993,
+            "y": -5556.9402734375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1793.3543437499993,
+            "y": -5516.26986328125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1749.5301249999993,
+            "y": -5464.76107421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1696.3367656249993,
+            "y": -5475.71615234375,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1689.7723124999993,
+            "y": -5449.161953125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1683.2918437499993,
+            "y": -5404.18978515625,
+            "type": "path",
+            "move_mode": "jump",
+            "action": "shield"
+        },
+        {
+            "x": 1690.8621562499993,
+            "y": -5354.06771484375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": []
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

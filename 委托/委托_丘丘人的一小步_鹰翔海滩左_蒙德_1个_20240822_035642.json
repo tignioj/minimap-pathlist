@@ -1,0 +1,49 @@
+{
+    "name": "委托_丘丘人的一小步_鹰翔海滩左",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 3657.8719218749993,
+            "y": -4559.5271875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3735.7293437499993,
+            "y": -4687.86703125,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 3822.8172343749993,
+            "y": -4750.3660546875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 3822.8172343749993,
+            "y": -4750.3660546875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3829.7820781249993,
+            "y": -4752.863125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "火斧丘丘暴徒"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

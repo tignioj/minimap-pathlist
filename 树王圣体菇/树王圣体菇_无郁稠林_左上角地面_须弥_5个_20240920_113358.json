@@ -1,0 +1,127 @@
+{
+    "name": "树王圣体菇_无郁稠林_左上角地面",
+    "anchor_name": "传送锚点",
+    "country": "须弥",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -4035.8312031250007,
+            "y": -1940.8689843749999
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -3976.8312031250007,
+            "y": -1906.8709374999999
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -3915.6612812500007,
+            "y": -1879.1648828124999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3905.3927265625007,
+            "y": -1876.0291406249999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3934.8478046875007,
+            "y": -1875.3064843749999
+        },
+        {
+            "x": -3936.859375,
+            "y": -1894.2921600341797,
+            "type": "path",
+            "action": "",
+            "move_mode": "normal"
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3947.5519062500007,
+            "y": -1902.8269921874999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3925.1544453125007,
+            "y": -1904.5496484374999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3911.7052265625007,
+            "y": -1936.4002343749999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3935.7618671875007,
+            "y": -1960.5281640624999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3924.2384296875007,
+            "y": -1964.8582421874999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3952.3282734375007,
+            "y": -2002.8865624999999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3911.0528828125007,
+            "y": -2010.7400781249999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -3835.2247578125007,
+            "y": -1991.1814843749999
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -3819.7667500000007,
+            "y": -1946.5174218749999
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -3827.1788593750007,
+            "y": -1909.6492578124999
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3831.5206562500007,
+            "y": -1927.5301171874999
+        }
+    ]
+}

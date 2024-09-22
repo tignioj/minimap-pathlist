@@ -1,0 +1,43 @@
+{
+    "name": "盗宝团_奥藏山东部偏远",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "x": -1437.6417499999989,
+            "y": -3615.87484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1435.1397968749989,
+            "y": -3771.5594140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1456.1964374999989,
+            "y": -3790.0652734375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1470.1866718749989,
+            "y": -3816.89828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1429.5968281249989,
+            "y": -3869.9187890625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

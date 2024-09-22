@@ -1,0 +1,62 @@
+{
+  "name": "甜甜花_中央实验室遗址",
+  "country": "枫丹",
+  "positions": [
+    {
+      "x": -7211.540187500001,
+      "y": -10997.092373046875,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -7229.365382812501,
+      "y": -10922.300380859375,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -7302.344875000001,
+      "y": -10956.489345703125,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -7252.002101562501,
+      "y": -10970.536220703125,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -7271.875148437501,
+      "y": -10984.333828125,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -7269.503078125001,
+      "y": -11001.92708984375,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -7278.307765625001,
+      "y": -10999.654384765625,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -7281.062648437501,
+      "y": -11033.255458984375,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    }
+  ]
+}

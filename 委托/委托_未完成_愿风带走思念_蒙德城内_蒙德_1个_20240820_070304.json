@@ -1,0 +1,145 @@
+{
+    "name": "委托_愿风带走思念_蒙德城内",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "enable": false,
+    "positions": [
+        {
+            "x": 2540.9988749999993,
+            "y": -5795.439296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2523.1922343749993,
+            "y": -5788.36654296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2497.4539531249993,
+            "y": -5749.01888671875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2501.3621562499993,
+            "y": -5706.7566796875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "find_npc": "葛罗丽"
+            }
+        },
+        {
+            "x": 2513.3133281249993,
+            "y": -5735.63314453125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2559.9148906249993,
+            "y": -5743.93099609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2648.4344218749993,
+            "y": -5702.365078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2718.6570781249993,
+            "y": -5671.77328125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2742.9480937499993,
+            "y": -5698.92171875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "collect",
+                "target": "蒲公英籽",
+                "require": "砂糖",
+                "collect_mode": "attack"
+            }
+        },
+        {
+            "x": 2753.4949687499993,
+            "y": -5713.05404296875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "collect",
+                "target": "蒲公英籽",
+                "require": "砂糖",
+                "collect_mode": "attack"
+            }
+        },
+        {
+            "x": 2738.3250468749993,
+            "y": -5723.11263671875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "collect",
+                "target": "蒲公英籽",
+                "require": "砂糖",
+                "collect_mode": "attack"
+            }
+        },
+        {
+            "x": 2722.4285624999993,
+            "y": -5667.5271875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2611.8641093749993,
+            "y": -5722.19955078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2540.6941874999993,
+            "y": -5760.66048828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2494.0652812499993,
+            "y": -5729.69076171875,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 2500.8367656249993,
+            "y": -5707.7771875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "find_npc": "葛罗丽"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

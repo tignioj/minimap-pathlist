@@ -1,0 +1,103 @@
+{
+    "name": "委托_冰凉凉的大团危机_晨曦酒庄下",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 1944.7273906249993,
+            "y": -4956.019375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1941.0691874999993,
+            "y": -4904.2410546875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1912.5398906249993,
+            "y": -4850.9266015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1885.3426249999993,
+            "y": -4805.35921875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1843.4910624999993,
+            "y": -4768.2918359375,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 1776.0418437499993,
+            "y": -4700.060390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1756.5340312499993,
+            "y": -4651.271328125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1735.3504374999993,
+            "y": -4608.751796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1694.7957499999993,
+            "y": -4572.42171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1657.6102031249993,
+            "y": -4539.1004296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1641.3641093749993,
+            "y": -4513.2781640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 1623.7117656249993,
+            "y": -4475.3543359375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "大型冰史莱姆",
+                    "冰史莱姆",
+                    "冰史莱姆",
+                    "冰史莱姆",
+                    "冰史莱姆",
+                    "冰史莱姆"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

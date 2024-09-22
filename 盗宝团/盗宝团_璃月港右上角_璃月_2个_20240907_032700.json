@@ -1,0 +1,72 @@
+{
+    "name": "盗宝团_璃月港右上角",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "x": 739.0301250000011,
+            "y": -1009.6941796874999,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 808.6180156250011,
+            "y": -1001.1014062499999,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 876.0809062500011,
+            "y": -925.6541406249999,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 937.1141093750011,
+            "y": -901.5125390624999,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 977.2879375000011,
+            "y": -878.5506249999999,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1038.8406718750011,
+            "y": -871.6404687499999,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1104.2508281250011,
+            "y": -905.7156640624999,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1131.7859843750011,
+            "y": -942.4646874999999,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1134.3582500000011,
+            "y": -982.6160546874999,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ],
+    "fight_team": null
+}

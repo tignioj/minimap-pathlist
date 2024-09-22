@@ -1,0 +1,71 @@
+{
+    "name": "海灵芝_荒海右边",
+    "anchor_name": "砂流之庭",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9603.674656250001,
+            "y": 3557.6525
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9610.450046875001,
+            "y": 3522.67203125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9591.881687500001,
+            "y": 3476.1446875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9577.809421875001,
+            "y": 3451.24234375
+        },
+        {
+            "x": 9545.809421875001,
+            "y": 3430.0605200195314,
+            "type": "path",
+            "action": "stop_flying",
+            "move_mode": "fly"
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 9544.682468750001,
+            "y": 3429.902110900879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 9536.508640625001,
+            "y": 3383.908359375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 9610.557468750001,
+            "y": 3392.7775
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 9631.315281250001,
+            "y": 3404.1603887939455
+        }
+    ]
+}

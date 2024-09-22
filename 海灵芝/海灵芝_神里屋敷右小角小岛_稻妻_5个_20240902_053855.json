@@ -1,0 +1,85 @@
+{
+    "name": "海灵芝_神里屋敷右小角小岛",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9957.102390625001,
+            "y": 3919.84390625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 9929.309421875001,
+            "y": 3953.20328125
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 9933.582859375001,
+            "y": 4013.830234375
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 9945.049656250001,
+            "y": 4042.50796875
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 10007.565281250001,
+            "y": 4074.548984375
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 10040.565281250001,
+            "y": 4086.5978125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 10059.946140625001,
+            "y": 4091.70328125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 10070.004734375001,
+            "y": 4116.365390625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 10043.869968750001,
+            "y": 4129.1134375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 10034.418796875001,
+            "y": 4132.517734375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 10009.032078125001,
+            "y": 4193.798595275879
+        }
+    ]
+}

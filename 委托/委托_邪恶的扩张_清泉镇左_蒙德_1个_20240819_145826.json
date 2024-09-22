@@ -1,0 +1,74 @@
+{
+    "name": "委托_邪恶的扩张_清泉镇左",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 2537.9539531249993,
+            "y": -5227.2879296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2501.5594218749993,
+            "y": -5272.5750390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2472.4461406249993,
+            "y": -5283.6062890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2398.5516093749993,
+            "y": -5268.4324609375,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 2328.6648906249993,
+            "y": -5266.00375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2280.8484843749993,
+            "y": -5268.9266015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2230.1727031249993,
+            "y": -5262.925625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 2179.0359843749993,
+            "y": -5259.6834375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "冰深渊法师",
+                    "爆弹丘丘人",
+                    "打手丘丘人",
+                    "打手丘丘人",
+                    "射手丘丘人"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

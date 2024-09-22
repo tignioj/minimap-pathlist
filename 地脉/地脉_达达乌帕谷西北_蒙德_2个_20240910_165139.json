@@ -1,0 +1,58 @@
+{
+    "name": "地脉_达达乌帕谷西北",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 3663.327000000001,
+            "y": -4161.90609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3619.477390625001,
+            "y": -4222.6863671875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 3574.463718750001,
+            "y": -4251.8172265625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 3537.731296875001,
+            "y": -4274.4519921875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3497.426609375001,
+            "y": -4322.78109375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3455.780125000001,
+            "y": -4360.3406640625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 3455.795750000001,
+            "y": -4360.3445703125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

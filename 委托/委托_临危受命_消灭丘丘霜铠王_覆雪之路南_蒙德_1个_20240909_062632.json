@@ -1,0 +1,36 @@
+{
+    "name": "委托_临危受命_消灭丘丘霜铠王_覆雪之路南",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "DailyMissionPathExecutor",
+    "positions": [
+        {
+            "x": 2811.659031250001,
+            "y": -3908.48421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2847.885593750001,
+            "y": -3863.638515625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 2890.498875000001,
+            "y": -3856.81625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "丘丘霜铠王"
+                ]
+            }
+        }
+    ],
+    "fight_team": null
+}

@@ -1,0 +1,97 @@
+{
+  "name": "霓裳花_望舒客栈",
+  "country": "璃月",
+  "positions": [
+    {
+      "x": 132.75668749999932,
+      "y": -2987.322109375,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 239.44418749999932,
+      "y": -2969.212734375,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying"
+    },
+    {
+      "x": 255.44516406249932,
+      "y": -2961.21859375,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 220.32992968749932,
+      "y": -3015.1766015625,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 241.26840624999932,
+      "y": -3069.51546875,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 187.00082812499932,
+      "y": -3115.7771875,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 222.51938281249932,
+      "y": -3131.175625,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 203.19028124999932,
+      "y": -3119.2156640625,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 172.80453906249932,
+      "y": -3164.60921875,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 115.70297656249932,
+      "y": -3229.642421875,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 85.47446093749932,
+      "y": -3261.86703125,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 92.52719531249932,
+      "y": -3280.2859765625,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": 29.400242187499316,
+      "y": -3305.3308984375,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    }
+  ]
+}

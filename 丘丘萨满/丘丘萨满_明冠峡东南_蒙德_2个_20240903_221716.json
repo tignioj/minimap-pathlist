@@ -1,0 +1,85 @@
+{
+    "name": "丘丘萨满_明冠峡东南",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1664.0398906250011,
+            "y": -6402.75423828125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1689.6863750000011,
+            "y": -6461.84408203125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1709.9695781250011,
+            "y": -6500.568203125
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1763.5926250000011,
+            "y": -6510.986171875
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "target",
+            "x": 1755.5008281250011,
+            "y": -6537.8475
+        },
+        {
+            "x": 1754.5809062500011,
+            "y": -6564.9715234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1717.1941875000011,
+            "y": -6579.70638671875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1693.9031718750011,
+            "y": -6595.876796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1666.3660625000011,
+            "y": -6658.6687890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1648.2059062500011,
+            "y": -6674.29134765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1645.4012187500011,
+            "y": -6647.12435546875,
+            "type": "target",
+            "move_mode": "jump",
+            "action": ""
+        }
+    ]
+}

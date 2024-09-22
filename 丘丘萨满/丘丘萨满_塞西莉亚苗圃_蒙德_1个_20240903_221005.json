@@ -1,0 +1,22 @@
+{
+    "name": "丘丘萨满_塞西莉亚苗圃",
+    "anchor_name": "塞西莉亚苗圃",
+    "country": "蒙德",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "x": 1271.5535625000011,
+            "y": -5753.9851953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1328.6375468750011,
+            "y": -5705.111171875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

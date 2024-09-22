@@ -1,0 +1,99 @@
+{
+    "name": "海灵芝_踏鞴沙左上",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 6830.703953125001,
+            "y": 6002.935703125
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 6801.309421875001,
+            "y": 5930.580234375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 6767.725437500001,
+            "y": 5849.412265625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 6820.299656250001,
+            "y": 5780.599262084961
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 6873.592625000001,
+            "y": 5768.976329650879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 6866.317234375001,
+            "y": 5726.265392150879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 6806.573093750001,
+            "y": 5754.654453125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 6793.762546875001,
+            "y": 5717.0040625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 6781.918796875001,
+            "y": 5692.873203125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 6820.084812500001,
+            "y": 5652.482578125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 6801.578953125001,
+            "y": 5617.763828125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 6823.563328125001,
+            "y": 5554.562267150879
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 6836.159031250001,
+            "y": 5505.022811737061
+        }
+    ]
+}

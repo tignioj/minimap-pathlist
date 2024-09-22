@@ -1,0 +1,170 @@
+{
+    "name": "盗宝团_天衡山西南",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -263.07339062499886,
+            "y": 7.4366796875001455
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -324.87612499999886,
+            "y": 18.124179687500146
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -440.37807812499886,
+            "y": 71.18726715087905
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -567.0519062499989,
+            "y": 121.89722808837905
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -561.0597187499989,
+            "y": 87.68277343750015
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -563.2433124999989,
+            "y": 57.049960937500146
+        },
+        {
+            "x": -616.7979999999989,
+            "y": 61.006992187500146,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -642.4249531249989,
+            "y": 25.929843750000146,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -644.7237812499989,
+            "y": -10.854335937499854,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -649.2706562499989,
+            "y": -50.997890624999854,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -669.8937031249989,
+            "y": -86.79378906249985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -699.5265156249989,
+            "y": -128.98519531249985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -726.4757343749989,
+            "y": -174.03499999999985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -749.6437031249989,
+            "y": -206.06429687499985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -791.7218281249989,
+            "y": -244.70101562499985,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -838.2979999999989,
+            "y": -303.23031249999985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -849.5909687499989,
+            "y": -378.17171874999985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -815.6749531249989,
+            "y": -411.62777343749985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -729.6983906249989,
+            "y": -410.79867187499985,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -775.7979999999989,
+            "y": -415.01253906249985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -819.9620624999989,
+            "y": -430.91585937499985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -874.6358906249989,
+            "y": -464.41488281249985,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -936.3858906249989,
+            "y": -517.1814843749999,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ],
+    "fight_team": null
+}

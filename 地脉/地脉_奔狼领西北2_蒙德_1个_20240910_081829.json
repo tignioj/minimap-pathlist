@@ -1,0 +1,93 @@
+{
+    "name": "地脉_奔狼领西北2",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 1561.2469218750011,
+            "y": -5829.3484765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1541.6805156250011,
+            "y": -5885.35970703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1529.5887187500011,
+            "y": -5918.99251953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1491.6062968750011,
+            "y": -5944.56087890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1538.0105937500011,
+            "y": -5982.6199609375,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1503.7059062500011,
+            "y": -6021.02669921875,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1471.4148906250011,
+            "y": -6071.97494140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1396.7371562500011,
+            "y": -6085.87337890625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1327.4520000000011,
+            "y": -6103.2293359375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1263.6805156250011,
+            "y": -6112.71126953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 1201.3465312500011,
+            "y": -6099.02474609375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 1201.3465312500011,
+            "y": -6099.02474609375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

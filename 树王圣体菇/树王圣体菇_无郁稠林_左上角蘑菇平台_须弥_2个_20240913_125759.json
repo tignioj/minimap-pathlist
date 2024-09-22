@@ -1,0 +1,78 @@
+{
+    "name": "树王圣体菇_无郁稠林_左上角蘑菇平台",
+    "anchor_name": "传送锚点",
+    "country": "须弥",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -4036.1896015625007,
+            "y": -1939.5672265624999
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -3918.5958515625007,
+            "y": -1952.7029687499999
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -3870.5313984375007,
+            "y": -1959.8543359374999
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -3896.0470234375007,
+            "y": -1960.6756249999999
+        },
+        {
+            "action": "",
+            "move_mode": "up_down_grab_leaf",
+            "type": "target",
+            "x": -3948.9444843750007,
+            "y": -1964.8113671874999
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -3917.2931171875007,
+            "y": -1983.3933984374999
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -3897.7735859375007,
+            "y": -1978.7615624999999
+        },
+        {
+            "action": "",
+            "move_mode": "up_down_grab_leaf",
+            "type": "path",
+            "x": -3837.0265156250007,
+            "y": -1953.1590234374999
+        },
+        {
+            "x": -3839.086085937499,
+            "y": -1958.454334411621,
+            "type": "path",
+            "action": "",
+            "move_mode": "up_down_grab_leaf"
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -3835.431789062499,
+            "y": -1952.788479003906
+        }
+    ]
+}

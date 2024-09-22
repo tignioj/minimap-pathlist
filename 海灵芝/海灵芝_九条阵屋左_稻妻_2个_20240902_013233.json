@@ -1,0 +1,43 @@
+{
+    "name": "海灵芝_九条阵屋左",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 7665.940281250001,
+            "y": 5390.6915625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7606.928562500001,
+            "y": 5428.890392150879,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 7563.928562500001,
+            "y": 5446.890392150879,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 7535.823093750001,
+            "y": 5456.564609375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 7531.194187500001,
+            "y": 5476.437267150879,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

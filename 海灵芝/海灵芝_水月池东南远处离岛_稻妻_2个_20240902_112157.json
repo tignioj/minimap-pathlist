@@ -1,0 +1,29 @@
+{
+    "name": "海灵芝_水月池东南远处离岛",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 3423.016453125001,
+            "y": 6305.27359375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3455.573093750001,
+            "y": 6405.44546875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3497.061375000001,
+            "y": 6328.3634375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

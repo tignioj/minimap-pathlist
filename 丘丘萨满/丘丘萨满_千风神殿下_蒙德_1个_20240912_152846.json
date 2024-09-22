@@ -1,0 +1,44 @@
+{
+    "name": "丘丘萨满_千风神殿下",
+    "anchor_name": "北风之狼的庙宇",
+    "country": "蒙德",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 4073.9734843749993,
+            "y": -5558.42806640625
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": 4055.7586406249993,
+            "y": -5594.17123046875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 4113.323093749999,
+            "y": -5609.42220703125
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 4195.110203124999,
+            "y": -5622.57015625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 4249.223484374999,
+            "y": -5605.16341796875
+        }
+    ],
+    "fight_team": null
+}

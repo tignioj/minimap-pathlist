@@ -1,0 +1,49 @@
+{
+    "name": "委托_攀高危险_覆雪之路右上",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 3057.3074687499993,
+            "y": -4430.974453125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3150.5535624999993,
+            "y": -4436.286953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3173.9793437499993,
+            "y": -4383.4051171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3161.8680156249993,
+            "y": -4357.57015625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "shield",
+            "event": {
+                "type": "destroy"
+            }
+        },
+        {
+            "x": 3146.0711406249993,
+            "y": -4332.36703125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "destroy"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "委托_持盾的危机_千风神殿下",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 3807.0672343749993,
+            "y": -5834.55306640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3901.5535624999993,
+            "y": -5820.6199609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3934.5516093749993,
+            "y": -5841.17904296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3973.5516093749993,
+            "y": -5848.4129296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4039.8777812499993,
+            "y": -5822.462734375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4124.787937499999,
+            "y": -5771.66927734375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4179.655124999999,
+            "y": -5710.52474609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4212.174656249999,
+            "y": -5669.92220703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4211.289890624999,
+            "y": -5634.73080078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 4232.409031249999,
+            "y": -5611.43490234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 4259.319187499999,
+            "y": -5607.1053125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": []
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

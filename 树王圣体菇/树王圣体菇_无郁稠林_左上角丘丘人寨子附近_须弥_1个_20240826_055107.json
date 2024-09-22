@@ -1,0 +1,85 @@
+{
+  "name": "树王圣体菇_无郁稠林_左上角丘丘人寨子附近",
+  "anchor_name": "传送锚点",
+  "executor": "CollectPathExecutor",
+  "country": "须弥",
+  "positions": [
+    {
+      "x": -4034.5812031250007,
+      "y": -1939.3260156249999,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -3939.1358906250007,
+      "y": -2015.9607812499999,
+      "type": "path",
+      "move_mode": "fly",
+      "action": ""
+    },
+    {
+      "x": -3879.8204609375007,
+      "y": -2061.6707421875,
+      "type": "path",
+      "move_mode": "fly",
+      "action": ""
+    },
+    {
+      "x": -3833.9220234375007,
+      "y": -2093.23421875,
+      "type": "path",
+      "move_mode": "fly",
+      "action": ""
+    },
+    {
+      "x": -3790.6983906250007,
+      "y": -2119.00375,
+      "type": "path",
+      "move_mode": "fly",
+      "action": ""
+    },
+    {
+      "x": -3732.6983906250007,
+      "y": -2131.00375,
+      "type": "path",
+      "action": "stop_flying",
+      "move_mode": "fly"
+    },
+    {
+      "x": -3758.1075703125007,
+      "y": -2136.6687890625,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying"
+    },
+    {
+      "x": -3751.9786640625007,
+      "y": -2149.1023828125,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -3777.9747578125007,
+      "y": -2151.0398828125,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -3793.2569843750007,
+      "y": -2155.10140625,
+      "type": "path",
+      "move_mode": "jump",
+      "action": ""
+    },
+    {
+      "x": -3794.3653828125007,
+      "y": -2155.5867578125,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    }
+  ]
+}

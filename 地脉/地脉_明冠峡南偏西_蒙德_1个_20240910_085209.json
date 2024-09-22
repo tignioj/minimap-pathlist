@@ -1,0 +1,65 @@
+{
+    "name": "地脉_明冠峡南偏西",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 1663.4129375000011,
+            "y": -6402.39486328125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1629.9910625000011,
+            "y": -6362.154140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1583.2469218750011,
+            "y": -6334.52279296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1539.4930156250011,
+            "y": -6382.01986328125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1515.7254375000011,
+            "y": -6395.70443359375,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1501.3758281250011,
+            "y": -6380.47982421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 1464.8934062500011,
+            "y": -6367.38216796875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 1464.8934062500011,
+            "y": -6367.38216796875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

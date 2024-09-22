@@ -1,0 +1,30 @@
+{
+    "name": "委托_愿风带走思念2_爬神像_蒙德城内",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "enable": false,
+    "positions": [
+        {
+            "x": 2284.4949687499993,
+            "y": -5762.9959375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2287.9051249999993,
+            "y": -5815.6082421875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 2284.8465312499993,
+            "y": -5870.8426171875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

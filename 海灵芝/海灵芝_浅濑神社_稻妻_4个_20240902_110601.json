@@ -1,0 +1,92 @@
+{
+    "name": "海灵芝_浅濑神社",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 8191.188328125001,
+            "y": 8136.650546875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8231.660984375001,
+            "y": 8089.912265625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8292.368015625001,
+            "y": 8040.591953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8327.174656250001,
+            "y": 8002.060703125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8342.174656250001,
+            "y": 7984.40640625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8347.703953125001,
+            "y": 7919.668125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8347.446140625001,
+            "y": 7887.210910644531,
+            "type": "path",
+            "action": "",
+            "move_mode": "normal"
+        },
+        {
+            "x": 8324.799656250001,
+            "y": 7855.10953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8295.381687500001,
+            "y": 7834.447421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8234.879734375001,
+            "y": 7823.12125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8204.873875000001,
+            "y": 7813.525546875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 8197.213718750001,
+            "y": 7794.404453125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

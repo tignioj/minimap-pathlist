@@ -1,0 +1,168 @@
+{
+  "name": "霓裳花",
+  "country": "璃月",
+  "positions": [
+    {
+      "x": -260.5,
+      "y": 5,
+      "type": "path",
+      "country": "璃月",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -174.5,
+      "y": -16,
+      "type": "path",
+      "action": "",
+      "move_mode": "fly"
+    },
+    {
+      "x": -121.0048828125,
+      "y": -31.0048828125,
+      "type": "path",
+      "action": "stop_flying",
+      "move_mode": "fly"
+    },
+    {
+      "x": -105.0048828125,
+      "y": -23.9970703125,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -78.5,
+      "y": -30.5,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -73,
+      "y": -26,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -57,
+      "y": -48.5,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -27.9970703125,
+      "y": -68.5048828125,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -32.9931640625,
+      "y": -63.994140625,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -29.9970703125,
+      "y": -70.50390625,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -50.5,
+      "y": -58,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -92,
+      "y": -105.998046875,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -99,
+      "y": -152,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -94,
+      "y": -164,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -87.0556640625,
+      "y": -163,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -74,
+      "y": -166,
+      "type": "path",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -66,
+      "y": -171,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -66,
+      "y": -171,
+      "type": "target",
+      "action": "",
+      "move_mode": "normal"
+    },
+    {
+      "x": -76.14858593750068,
+      "y": -161.94320312499985,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -96.76284375000068,
+      "y": -167.41976562499985,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -147.17690625000068,
+      "y": -160.13265624999985,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -196.86635937500068,
+      "y": -184.39632812499985,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -206.61831250000068,
+      "y": -200.08968749999985,
+      "type": "target",
+      "move_mode": "normal",
+      "action": ""
+    }
+  ]
+}

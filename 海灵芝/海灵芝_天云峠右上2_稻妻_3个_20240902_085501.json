@@ -1,0 +1,78 @@
+{
+    "name": "海灵芝_天云峠右上2",
+    "anchor_name": "传送锚点",
+    "country": "稻妻",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 9746.994968750001,
+            "y": 7913.20757850647,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 9779.475437500001,
+            "y": 7815.913829650879,
+            "type": "path",
+            "action": "",
+            "move_mode": "normal"
+        },
+        {
+            "x": 9797.965671875001,
+            "y": 7761.712657775879,
+            "type": "path",
+            "action": "",
+            "move_mode": "jump"
+        },
+        {
+            "x": 9837.121921875001,
+            "y": 7719.677501525879,
+            "type": "path",
+            "action": "",
+            "move_mode": "normal"
+        },
+        {
+            "x": 9852.711765625001,
+            "y": 7704.24781211853,
+            "type": "path",
+            "action": "",
+            "move_mode": "normal"
+        },
+        {
+            "x": 9887.129734375001,
+            "y": 7655.781017150879,
+            "type": "path",
+            "action": "",
+            "move_mode": "swim"
+        },
+        {
+            "x": 9942.952000000001,
+            "y": 7646.050548400879,
+            "type": "path",
+            "action": "",
+            "move_mode": "normal"
+        },
+        {
+            "x": 9944.465671875001,
+            "y": 7594.4018438720705,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 9900.612156250001,
+            "y": 7554.728908386231,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 9872.250828125001,
+            "y": 7556.100002136231,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

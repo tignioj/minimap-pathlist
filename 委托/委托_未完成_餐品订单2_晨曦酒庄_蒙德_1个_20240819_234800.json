@@ -1,0 +1,54 @@
+{
+    "name": "委托_餐品订单_蒙德城内2",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "enable": false,
+    "positions": [
+        {
+            "x": 1945.9422343749993,
+            "y": -4957.2840234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1851.6492656249993,
+            "y": -4917.456875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1782.7859843749993,
+            "y": -4895.78109375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1703.9031718749993,
+            "y": -4853.4959375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1654.4187968749993,
+            "y": -4819.2391015625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1585.0809062499993,
+            "y": -4817.78109375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "find_npc"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

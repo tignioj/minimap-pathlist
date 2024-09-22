@@ -1,0 +1,49 @@
+{
+    "name": "委托_攀高危险_南风之狮庙宇左边",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 3659.4012187499993,
+            "y": -4559.4324609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3604.0652812499993,
+            "y": -4556.669765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3549.7449687499993,
+            "y": -4520.0594140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3511.2059062499993,
+            "y": -4483.37875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "shield",
+            "event": {
+                "type": "destroy"
+            }
+        },
+        {
+            "x": 3454.8211406249993,
+            "y": -4484.5594140625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "destroy"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

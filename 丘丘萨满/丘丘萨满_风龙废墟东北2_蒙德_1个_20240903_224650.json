@@ -1,0 +1,36 @@
+{
+    "name": "丘丘萨满_风龙废墟东北2",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 966.0184062500011,
+            "y": -6810.6141015625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 935.5379375000011,
+            "y": -6881.3621484375
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": 928.8855937500011,
+            "y": -6975.0769921875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 993.8523906250011,
+            "y": -6997.77083984375
+        }
+    ]
+}

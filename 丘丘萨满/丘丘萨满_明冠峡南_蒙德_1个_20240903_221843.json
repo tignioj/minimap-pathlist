@@ -1,0 +1,57 @@
+{
+    "name": "丘丘萨满_明冠峡南",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "FightPathExecutor",
+    "positions": [
+        {
+            "x": 1663.6277812500011,
+            "y": -6403.86458984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1632.5340312500011,
+            "y": -6353.3387109375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1623.7977031250011,
+            "y": -6314.48568359375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1612.6883281250011,
+            "y": -6248.9598046875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1599.7391093750011,
+            "y": -6191.9617578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1598.9383281250011,
+            "y": -6143.51400390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1593.6805156250011,
+            "y": -6091.48373046875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

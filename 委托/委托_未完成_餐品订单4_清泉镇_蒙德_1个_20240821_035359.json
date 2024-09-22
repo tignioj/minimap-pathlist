@@ -1,0 +1,48 @@
+{
+    "name": "委托_餐品订单4_清泉镇",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "enable": false,
+    "positions": [
+        {
+            "x": 2535.7176249999993,
+            "y": -5227.4207421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2551.3348124999993,
+            "y": -5186.365078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2548.7449687499993,
+            "y": -5153.75375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2585.3934062499993,
+            "y": -5086.3875390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2591.2566874999993,
+            "y": -5056.94125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "find_npc",
+                "target": "帕拉德"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

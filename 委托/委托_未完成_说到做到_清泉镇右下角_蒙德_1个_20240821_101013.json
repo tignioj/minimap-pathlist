@@ -1,0 +1,71 @@
+{
+    "name": "委托_说到做到_清泉镇右下角",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "enable": false,
+    "positions": [
+        {
+            "x": 3057.0730937499993,
+            "y": -4433.591640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3040.5418437499993,
+            "y": -4494.22640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2995.9578593749993,
+            "y": -4554.24203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2971.7996562499993,
+            "y": -4607.15609375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2962.3250468749993,
+            "y": -4664.175625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2953.6668437499993,
+            "y": -4738.036953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2966.5711406249993,
+            "y": -4797.5613671875,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 2966.7996562499993,
+            "y": -4780.775234375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "find_npc",
+                "target": [
+                    "查耶维奇"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

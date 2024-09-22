@@ -1,0 +1,54 @@
+{
+    "name": "委托_圆滚滚的易爆品_鹰翔海滩左",
+    "anchor_name": "南风之狮的庙宇",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 3659.8504374999993,
+            "y": -4558.3816796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3626.8387187499993,
+            "y": -4586.5828515625,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 3565.8582499999993,
+            "y": -4672.368984375,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 3565.8582499999993,
+            "y": -4672.368984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3554.4812968749993,
+            "y": -4685.3387109375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "fight",
+                "targets": [
+                    "火斧丘丘暴徒",
+                    "水丘丘萨满",
+                    "丘丘人",
+                    "丘丘人",
+                    "火史莱姆",
+                    "火史莱姆"
+                ]
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

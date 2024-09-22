@@ -1,0 +1,56 @@
+{
+    "name": "委托_攀高危险_低雨森林",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 3441.7234843749993,
+            "y": -6370.76693359375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3446.4754374999993,
+            "y": -6297.9187890625,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 3408.9324687499993,
+            "y": -6244.74642578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3331.7156718749993,
+            "y": -6151.84798828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "shield"
+        },
+        {
+            "x": 3348.9832499999993,
+            "y": -6113.21517578125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "shield",
+            "event": {
+                "type": "destroy"
+            }
+        },
+        {
+            "x": 3309.9480937499993,
+            "y": -6101.48373046875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "destroy"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}

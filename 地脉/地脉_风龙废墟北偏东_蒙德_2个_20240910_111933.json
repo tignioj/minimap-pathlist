@@ -1,0 +1,79 @@
+{
+    "name": "地脉_风龙废墟北偏东",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "LeyLineOutcropPathExecutor",
+    "positions": [
+        {
+            "x": 967.8445781250011,
+            "y": -6811.7801171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 947.4109843750011,
+            "y": -6854.51205078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 916.7371562500011,
+            "y": -6905.41732421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 865.7625468750011,
+            "y": -6931.529140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 817.4891093750011,
+            "y": -6977.46029296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 785.8055156250011,
+            "y": -7032.72787109375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 801.1883281250011,
+            "y": -7063.19076171875,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 819.7684062500011,
+            "y": -7085.64193359375,
+            "type": "path",
+            "move_mode": "jump",
+            "action": "shield"
+        },
+        {
+            "x": 847.8094218750011,
+            "y": -7078.35921875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "fight"
+        },
+        {
+            "x": 854.44,
+            "y": -7084.7962,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "reward"
+        }
+    ],
+    "fight_team": null
+}

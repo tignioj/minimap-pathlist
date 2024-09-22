@@ -1,0 +1,49 @@
+{
+    "name": "委托_攀高危险_坠星山谷",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "positions": [
+        {
+            "x": 3854.8250468749993,
+            "y": -5192.716640625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 3819.8191874999993,
+            "y": -5218.7215234375,
+            "type": "path",
+            "action": "stop_flying",
+            "move_mode": "fly"
+        },
+        {
+            "x": 3819.8191874999993,
+            "y": -5218.7215234375,
+            "type": "path",
+            "action": "shield",
+            "move_mode": "normal"
+        },
+        {
+            "x": 3775.7723124999993,
+            "y": -5234.9773828125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "shield",
+            "event": {
+                "type": "destroy"
+            }
+        },
+        {
+            "x": 3730.7859843749993,
+            "y": -5197.9676171875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "",
+            "event": {
+                "type": "destroy"
+            }
+        }
+    ],
+    "executor": "DailyMissionPathExecutor"
+}
