@@ -1,0 +1,50 @@
+{
+    "name": "委托_冷冰冰的大麻烦_雪山眠龙谷北",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "DailyMissionPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1944.5750468750011,
+            "y": -4158.9246484375
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 2030.6258281250011,
+            "y": -4132.4617578125
+        },
+        {
+            "action": "",
+            "event": {
+                "targets": [
+                    "冰盾丘丘暴徒",
+                    "冰史莱姆"
+                ],
+                "type": "fight"
+            },
+            "move_mode": "normal",
+            "type": "target",
+            "x": 2051.809421875001,
+            "y": -4151.4500390625
+        },
+        {
+            "x": 2068.575046875001,
+            "y": -4175.164646301269,
+            "type": "target",
+            "action": "",
+            "move_mode": "normal",
+            "event": {
+                "targets": [
+                    "冰盾丘丘暴徒",
+                    "冰史莱姆"
+                ],
+                "type": "fight"
+            }
+        }
+    ]
+}
