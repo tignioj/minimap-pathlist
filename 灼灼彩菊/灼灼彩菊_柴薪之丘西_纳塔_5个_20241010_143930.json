@@ -1,0 +1,85 @@
+{
+    "name": "灼灼彩菊_柴薪之丘西",
+    "anchor_name": "传送锚点",
+    "country": "纳塔",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": -17312.256408691406,
+            "y": 1521.8321533203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -17296.5595703125,
+            "y": 1529.8583984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -17330.67791748047,
+            "y": 1578.9166259765625,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": -17337.2177734375,
+            "y": 1586.7794189453125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -17341.4306640625,
+            "y": 1586.8370361328125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -17347.956115722656,
+            "y": 1569.3907470703125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -17388.38330078125,
+            "y": 1572.52880859375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -17398.79168701172,
+            "y": 1540.7677001953125,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": -17399.611694335938,
+            "y": 1553.298095703125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -17403.424255371094,
+            "y": 1555.0225830078125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -17411.248291015625,
+            "y": 1557.7384033203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

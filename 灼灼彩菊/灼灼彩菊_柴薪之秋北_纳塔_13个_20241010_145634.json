@@ -1,0 +1,253 @@
+{
+    "name": "灼灼彩菊_柴薪之秋北",
+    "anchor_name": "传送锚点",
+    "country": "纳塔",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -16553.376831054688,
+            "y": 1293.9969482421875
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -16612.967712402344,
+            "y": 1305.8482284545898
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -16681.967712402344,
+            "y": 1312.8482284545898
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -16726.967712402344,
+            "y": 1309.8482284545898
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -16790.6103515625,
+            "y": 1318.7384872436523
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -16844.611206054688,
+            "y": 1323.7486190795898
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -16905.610229492188,
+            "y": 1332.7370223999023
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -16959.621948242188,
+            "y": 1359.7430038452148
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -16999.766540527344,
+            "y": 1352.5625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17012.036010742188,
+            "y": 1327.723388671875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17010.47900390625,
+            "y": 1313.559326171875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17016.253295898438,
+            "y": 1312.7222900390625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17020.186645507812,
+            "y": 1305.5316162109375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17043.318481445312,
+            "y": 1287.8321533203125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17054.498107910156,
+            "y": 1257.7838134765625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17052.06817626953,
+            "y": 1242.6527099609375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17045.914123535156,
+            "y": 1242.951904296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17071.75665283203,
+            "y": 1245.00634765625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17113.00128173828,
+            "y": 1251.7025146484375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17149.26495361328,
+            "y": 1255.027587890625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17154.515625,
+            "y": 1244.5009765625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17122.460510253906,
+            "y": 1269.202880859375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17113.032836914062,
+            "y": 1289.6392822265625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17105.84197998047,
+            "y": 1291.121826171875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17088.041015625,
+            "y": 1285.620361328125
+        },
+        {
+            "action": "",
+            "move_mode": "jump",
+            "type": "path",
+            "x": -17068.807739257812,
+            "y": 1297.783447265625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17075.654663085938,
+            "y": 1302.5523681640625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17063.71630859375,
+            "y": 1315.213623046875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17063.92559814453,
+            "y": 1339.7030029296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17085.523010253906,
+            "y": 1349.2210693359375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17104.00714111328,
+            "y": 1341.2486572265625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17106.671508789062,
+            "y": 1349.774169921875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17120.155517578125,
+            "y": 1336.9757080078125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -17129.374572753906,
+            "y": 1340.2772216796875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17136.20770263672,
+            "y": 1341.3651123046875
+        }
+    ]
+}

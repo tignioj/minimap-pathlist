@@ -1,0 +1,134 @@
+{
+    "name": "灼灼彩菊_柴薪之丘东南",
+    "anchor_name": "传送锚点",
+    "country": "纳塔",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17312.99542236328,
+            "y": 1521.787353515625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17233.74786376953,
+            "y": 1526.162109375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17154.318420410156,
+            "y": 1531.1141357421875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17097.99334716797,
+            "y": 1548.76953125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17074.120971679688,
+            "y": 1575.023193359375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -17043.201049804688,
+            "y": 1599.6549072265625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -16995.236450195312,
+            "y": 1608.189697265625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -16956.944580078125,
+            "y": 1600.9342041015625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -16931.262084960938,
+            "y": 1592.05517578125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -16929.27294921875,
+            "y": 1590.8897705078125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -16922.826782226562,
+            "y": 1581.1942138671875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -16898.307861328125,
+            "y": 1620.816650390625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -16880.15966796875,
+            "y": 1658.2978515625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -16899.529541015625,
+            "y": 1676.17236328125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -16907.5703125,
+            "y": 1717.814697265625
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -16924.927490234375,
+            "y": 1793.2342529296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -16915.437255859375,
+            "y": 1793.836669921875
+        },
+        {
+            "x": -16924.437255859375,
+            "y": 1792.0588932037354,
+            "type": "path",
+            "action": "",
+            "move_mode": "normal"
+        }
+    ]
+}
