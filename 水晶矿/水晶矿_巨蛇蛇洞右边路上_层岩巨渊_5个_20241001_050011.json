@@ -1,0 +1,120 @@
+{
+    "name": "水晶矿_巨蛇蛇洞右边路上",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 871.3171997070312,
+            "y": 702.233642578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 887.7859497070312,
+            "y": 712.4209594726562,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 906.552978515625,
+            "y": 715.8712768554688,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 936.9402465820312,
+            "y": 711.6790771484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 958.0267944335938,
+            "y": 704.9556884765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 973.53125,
+            "y": 691.8782348632812,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 981.2755737304688,
+            "y": 683.1607055664062,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 995.7582397460938,
+            "y": 672.3213500976562,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1004.8590698242188,
+            "y": 655.6312255859375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1008.9183959960938,
+            "y": 640.9222412109375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1016.0802001953125,
+            "y": 628.87646484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1022.494384765625,
+            "y": 608.7064819335938,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": 1019.0390625,
+            "y": 609.0905151367188,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1025.326904296875,
+            "y": 604.4561157226562,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1025.0714111328125,
+            "y": 609.7788696289062,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1026.5390625,
+            "y": 610.9435424804688,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

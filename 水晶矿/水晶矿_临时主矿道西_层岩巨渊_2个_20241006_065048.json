@@ -1,0 +1,71 @@
+{
+    "name": "水晶矿_临时主矿道西",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 865.2159423828125,
+            "y": 450.5936279296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 832.7742919921875,
+            "y": 464.61553955078125,
+            "type": "path",
+            "move_mode": "fly",
+            "action": "stop_flying"
+        },
+        {
+            "x": 816.3475341796875,
+            "y": 458.9861755371094,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 803.7074584960938,
+            "y": 437.9558410644531,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 811.9942016601562,
+            "y": 419.0543518066406,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 826.094970703125,
+            "y": 412.6944274902344,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 835.1605224609375,
+            "y": 412.1438903808594,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 837.4193725585938,
+            "y": 406,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": 840.5933837890625,
+            "y": 403.3055725097656,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

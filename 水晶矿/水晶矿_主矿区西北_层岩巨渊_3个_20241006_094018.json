@@ -1,0 +1,78 @@
+{
+    "name": "水晶矿_主矿区西北",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1432.4110107421875,
+            "y": 493.1532287597656
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1408.7147216796875,
+            "y": 497.7396240234375
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1390.494384765625,
+            "y": 483.4230651855469
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1393.30908203125,
+            "y": 476.20458984375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1390.491455078125,
+            "y": 468.0325622558594
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1392.5384521484375,
+            "y": 462.23614501953125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1390.3758544921875,
+            "y": 456.72509765625
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1392.810302734375,
+            "y": 446
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1389.2584228515625,
+            "y": 442.78778076171875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1390.7186279296875,
+            "y": 439.2865905761719
+        }
+    ]
+}

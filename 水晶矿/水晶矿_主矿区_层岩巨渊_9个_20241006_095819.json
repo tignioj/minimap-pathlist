@@ -1,0 +1,155 @@
+{
+    "name": "水晶矿_主矿区",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1485.395263671875,
+            "y": 708.7218627929688
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1486.317138671875,
+            "y": 673.7778263092041
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1484.3157958984375,
+            "y": 642.7781314849854
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1485.160400390625,
+            "y": 611.8497314453125
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1486.3153076171875,
+            "y": 591.2598724365234
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1477.611328125,
+            "y": 587.9729614257812
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1478.744384765625,
+            "y": 585.5451049804688
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1486.4873046875,
+            "y": 578.6436767578125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1488.4420166015625,
+            "y": 572.1160888671875
+        },
+        {
+            "x": 1491.7269287109375,
+            "y": 572.6549072265625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1524.90771484375,
+            "y": 563.2139892578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1552.6103515625,
+            "y": 565.2924194335938,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1574.37939453125,
+            "y": 563.8624877929688,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1592.9730224609375,
+            "y": 561.4334716796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1604.1593017578125,
+            "y": 559.3197631835938,
+            "type": "path",
+            "move_mode": "jump",
+            "action": ""
+        },
+        {
+            "x": 1602.0091552734375,
+            "y": 553.956787109375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": 1601.4364013671875,
+            "y": 551,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1605.146484375,
+            "y": 558.7365112304688,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1609.7861328125,
+            "y": 556.915771484375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1609.284912109375,
+            "y": 552.806640625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": 1608.284912109375,
+            "y": 550.9912719726562,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

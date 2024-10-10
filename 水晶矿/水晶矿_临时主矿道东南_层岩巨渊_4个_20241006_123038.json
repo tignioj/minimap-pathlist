@@ -1,0 +1,85 @@
+{
+    "name": "水晶矿_临时主矿道东南",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1101.3272705078125,
+            "y": 412.1293029785156
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1112.717041015625,
+            "y": 417.9136962890625
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1121.762939453125,
+            "y": 438.0863952636719
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1116.7664794921875,
+            "y": 462.8264465332031
+        },
+        {
+            "x": 1124.904052734375,
+            "y": 478.04080963134766,
+            "type": "path",
+            "action": "",
+            "move_mode": "fly"
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1099.2738037109375,
+            "y": 484.1405029296875
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1098.224853515625,
+            "y": 484.170654296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1095.59423828125,
+            "y": 484.63720703125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1085.2313232421875,
+            "y": 511.208740234375
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1097.8216552734375,
+            "y": 513.7593383789062
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1099.5107421875,
+            "y": 513.8031005859375
+        }
+    ]
+}

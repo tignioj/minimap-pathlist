@@ -1,0 +1,169 @@
+{
+    "name": "水晶矿_无名遗迹东南",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1170.6795654296875,
+            "y": 1256.964111328125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1168.57080078125,
+            "y": 1243.2845458984375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1170.9234619140625,
+            "y": 1223.943115234375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1170.733154296875,
+            "y": 1210.927001953125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1169.915283203125,
+            "y": 1188.8187255859375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1165.2939453125,
+            "y": 1177.0189208984375
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1170.207275390625,
+            "y": 1161.822509765625
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1176.6248779296875,
+            "y": 1141.15234375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1178.8095703125,
+            "y": 1135.762939453125
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1181.1575927734375,
+            "y": 1120.8978271484375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1178.57373046875,
+            "y": 1119.3046875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1179.65625,
+            "y": 1117.3131103515625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1184.45849609375,
+            "y": 1120.1094970703125
+        },
+        {
+            "x": 1167.75537109375,
+            "y": 1106.345458984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1148.3065185546875,
+            "y": 1101.3316650390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1125.8682861328125,
+            "y": 1085.2547607421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1107.4423828125,
+            "y": 1077.8109130859375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1100.5367431640625,
+            "y": 1057.7266845703125,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 1093.177978515625,
+            "y": 1042.999267578125,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 1095.279052734375,
+            "y": 1030.7860107421875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": 1096.076416015625,
+            "y": 1032.31640625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1095.594482421875,
+            "y": 1029.39990234375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1096.596435546875,
+            "y": 1026.8226318359375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

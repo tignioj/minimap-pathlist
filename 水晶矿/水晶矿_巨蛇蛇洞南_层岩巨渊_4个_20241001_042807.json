@@ -1,0 +1,106 @@
+{
+    "name": "水晶矿_巨蛇蛇洞南",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 871.310546875,
+            "y": 703.4683227539062
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 840.1851196289062,
+            "y": 724.0164184570312
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 819.4290771484375,
+            "y": 736.1760864257812
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 794.8732299804688,
+            "y": 759.3927001953125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 783.503662109375,
+            "y": 768.3592529296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 760.676025390625,
+            "y": 769.634521484375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 745.6450805664062,
+            "y": 776.7996826171875
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 717.7872314453125,
+            "y": 768.5953979492188
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 718.7564697265625,
+            "y": 770.955322265625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 716.3939819335938,
+            "y": 766.4841918945312
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 709.2764892578125,
+            "y": 763.9683837890625
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 707.3662109375,
+            "y": 768.1596069335938
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 707.3123168945312,
+            "y": 768.1742553710938
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 708.7351684570312,
+            "y": 771.7117919921875
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "水晶矿_崎岖石厅南",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1408.8370361328125,
+            "y": 1290.865478515625
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1398.00634765625,
+            "y": 1298.390380859375
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1366.5782470703125,
+            "y": 1319.6868896484375
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1343.46728515625,
+            "y": 1339.7689208984375
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1343.97705078125,
+            "y": 1342.56787109375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1339.046630859375,
+            "y": 1347.243408203125
+        }
+    ]
+}

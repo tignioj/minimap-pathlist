@@ -1,0 +1,71 @@
+{
+    "name": "水晶矿_荧光狭道北偏西",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 955.2796630859375,
+            "y": 1129.616455078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 966.5178833007812,
+            "y": 1114.4276123046875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 973.7171630859375,
+            "y": 1100.4892578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 973.7456665039062,
+            "y": 1090.510498046875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 954.852783203125,
+            "y": 1078.124267578125,
+            "type": "path",
+            "move_mode": "fly",
+            "action": ""
+        },
+        {
+            "x": 949.1795654296875,
+            "y": 1074.605224609375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": 946.8372802734375,
+            "y": 1076.34619140625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 946.3443603515625,
+            "y": 1074.675048828125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 949.906982421875,
+            "y": 1070.00439453125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

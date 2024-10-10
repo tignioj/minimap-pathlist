@@ -1,0 +1,197 @@
+{
+    "name": "水晶矿_地下水泽南偏西",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1218.75927734375,
+            "y": 517.8779296875
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1179.5552978515625,
+            "y": 528.07568359375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1201.8770751953125,
+            "y": 551.9143676757812
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1202.0430908203125,
+            "y": 568.419921875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1214.8321533203125,
+            "y": 580.0459594726562
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1209.2071533203125,
+            "y": 599.426025390625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1191.8685302734375,
+            "y": 607.3793334960938
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1176.47705078125,
+            "y": 616.4427490234375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1175.156982421875,
+            "y": 634.16552734375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1176.612060546875,
+            "y": 656.1966552734375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1163.50732421875,
+            "y": 676.201904296875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1152.93212890625,
+            "y": 693.4705810546875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1141.0618896484375,
+            "y": 715.9290771484375
+        },
+        {
+            "action": "",
+            "move_mode": "swim",
+            "type": "path",
+            "x": 1141.37255859375,
+            "y": 723.827392578125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1149.8499755859375,
+            "y": 733.7806396484375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1158.46826171875,
+            "y": 740.5712280273438
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1170,
+            "y": 748
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1169.5482177734375,
+            "y": 743.5977172851562
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1172.6658935546875,
+            "y": 752.746337890625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1172.8751220703125,
+            "y": 746.2786865234375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1172.154052734375,
+            "y": 750.074462890625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1176.6385498046875,
+            "y": 752.1798706054688
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1176.612548828125,
+            "y": 752.1753540039062
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1173.16943359375,
+            "y": 756.1868896484375
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1164.6627197265625,
+            "y": 754.3690185546875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1162.7122802734375,
+            "y": 755.20263671875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1162.2987060546875,
+            "y": 753.2571411132812
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "水晶矿_无名遗迹西北",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1104.80126953125,
+            "y": 763.3541259765625
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1084.04638671875,
+            "y": 780.4852905273438
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1079.4007568359375,
+            "y": 793.6439208984375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1074.69873046875,
+            "y": 816.2099609375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1055.239990234375,
+            "y": 848.869384765625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1044.369873046875,
+            "y": 866.3631591796875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1044.4208984375,
+            "y": 893.9418334960938
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1046.7586669921875,
+            "y": 915.7171020507812
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1038.3905029296875,
+            "y": 929.0744018554688
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1025.6619873046875,
+            "y": 947.8067016601562
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1026.2860107421875,
+            "y": 958.4500732421875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1026.4215087890625,
+            "y": 966.2028198242188
+        }
+    ]
+}
