@@ -1,0 +1,148 @@
+{
+    "name": "水晶矿_地下水泽",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1219.0738525390625,
+            "y": 518.0106811523438
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1178.39013671875,
+            "y": 530.9194946289062
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1197.619384765625,
+            "y": 548.1691131591797
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1203.63525390625,
+            "y": 563.3358612060547
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1204.6988525390625,
+            "y": 574.6543426513672
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1211.9600830078125,
+            "y": 579.3538208007812
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1226.804931640625,
+            "y": 585.235327154398
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1234.4022216796875,
+            "y": 600.3197021484375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1249.098388671875,
+            "y": 603.9237060546875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1271.0245361328125,
+            "y": 606.3893432617188
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1284.470703125,
+            "y": 608.9683837890625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 1294.942626953125,
+            "y": 605.0232315063477
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1310.9193115234375,
+            "y": 621.8976440429688
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1280.0914306640625,
+            "y": 662.3507537841797
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 1265.4483642578125,
+            "y": 672.927734375
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1257.8939208984375,
+            "y": 682.4193725585938
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1256.1334228515625,
+            "y": 683.70751953125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1257.631591796875,
+            "y": 686.1529541015625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1257.4002685546875,
+            "y": 687.9774780273438
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 1261.2342529296875,
+            "y": 688.7557373046875
+        }
+    ]
+}
