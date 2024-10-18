@@ -1,0 +1,43 @@
+{
+    "name": "奖励_凯瑟琳",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 2541.85791015625,
+            "y": -5794.1170654296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2554.70556640625,
+            "y": -5762.544921875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2579.6708984375,
+            "y": -5741.508544921875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2606.4345703125,
+            "y": -5721.9344482421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 2621.01904296875,
+            "y": -5705.1390380859375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}
