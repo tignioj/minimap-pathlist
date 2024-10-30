@@ -1,0 +1,52 @@
+{
+    "name": "委托_圆滚滚的易爆品_千风神殿左下",
+    "anchor_name": "传送锚点",
+    "country": "蒙德",
+    "executor": "DailyMissionPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3808.3836406249993,
+            "y": -5833.00814453125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 3774.1590312499993,
+            "y": -5734.9021875
+        },
+        {
+            "x": 3747.3836406249993,
+            "y": -5637.208144340515,
+            "type": "path",
+            "action": "stop_flying",
+            "move_mode": "fly"
+        },
+        {
+            "x": 3747.3836406249993,
+            "y": -5635.408141288757,
+            "type": "path",
+            "action": "shield",
+            "move_mode": "normal"
+        },
+        {
+            "action": "",
+            "event": {
+                "targets": [
+                    "火斧丘丘暴徒",
+                    "丘丘人",
+                    "火史莱姆",
+                    "火史莱姆"
+                ],
+                "type": "fight"
+            },
+            "move_mode": "fly",
+            "type": "target",
+            "x": 3742.6160624999993,
+            "y": -5623.935390625
+        }
+    ]
+}
