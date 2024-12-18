@@ -1,0 +1,22 @@
+{
+  "name": "石珀_影月月p21",
+  "anchor_name": "传送锚点",
+  "country": "须弥",
+  "executor": "CollectPathExecutor",
+  "positions": [
+    {
+      "x": -3203.4248046875,
+      "y": 119.68798828125,
+      "type": "path",
+      "move_mode": "normal",
+      "action": ""
+    },
+    {
+      "x": -3191.2119140625,
+      "y": 79.228515625,
+      "type": "target",
+      "move_mode": "normal",
+      "action": "mining"
+    }
+  ]
+}

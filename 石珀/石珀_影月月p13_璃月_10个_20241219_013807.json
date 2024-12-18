@@ -1,0 +1,204 @@
+{
+    "name": "石珀_影月月p13",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -883.92578125,
+            "y": -1710.30322265625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -929.77490234375,
+            "y": -1710.51220703125
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -983.77099609375,
+            "y": -1704.01171875
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -991.71337890625,
+            "y": -1725.8544921875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -965.98583984375,
+            "y": -1662.96728515625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -936.064453125,
+            "y": -1609.26171875
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -943.84375,
+            "y": -1582.25341796875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -942.7041015625,
+            "y": -1612.97265625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -813.40283203125,
+            "y": -1625.16943359375
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -812.853515625,
+            "y": -1682.9111328125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -803.93603515625,
+            "y": -1681.8056640625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -804.5302734375,
+            "y": -1692.00732421875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -780.162109375,
+            "y": -1651.5849609375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -742.365234375,
+            "y": -1478.75439453125
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -791.083984375,
+            "y": -1458.2919921875
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -814.9072265625,
+            "y": -1463.745132446289
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -785.16796875,
+            "y": -1467.126953125
+        },
+        {
+            "x": -792.1533203125,
+            "y": -1429.0529289245605,
+            "type": "path",
+            "action": "mining",
+            "move_mode": "normal"
+        },
+        {
+            "x": -799.21044921875,
+            "y": -1424.6515617370605,
+            "type": "target",
+            "action": "",
+            "move_mode": "normal"
+        },
+        {
+            "x": -777.71923828125,
+            "y": -1435.1002922058105,
+            "type": "path",
+            "action": "",
+            "move_mode": "normal"
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -736.9814453125,
+            "y": -1378.5361328125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -704.8759765625,
+            "y": -1354.81982421875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -741.21044921875,
+            "y": -1282.326171875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -752.48486328125,
+            "y": -1276.244140625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -768.37841796875,
+            "y": -1277.91259765625
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -769.1220703125,
+            "y": -1277.7646484375
+        },
+        {
+            "action": "shield",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -749.25244140625,
+            "y": -1272.296875
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -738.34130859375,
+            "y": -1256.20703125
+        }
+    ]
+}

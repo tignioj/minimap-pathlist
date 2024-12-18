@@ -1,0 +1,64 @@
+{
+    "name": "石珀_影月月p11",
+    "anchor_name": "七天神像",
+    "country": "璃月",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -2158.158935546875,
+            "y": -2767.2421875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -2151.828369140625,
+            "y": -2754.83447265625
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -2153.441650390625,
+            "y": -2720.5517578125
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -2161.716064453125,
+            "y": -2608.35498046875
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -2171.78125,
+            "y": -2511.48779296875
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -2159.96728515625,
+            "y": -2491.89501953125
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -2159.04345703125,
+            "y": -2494.2822265625
+        },
+        {
+            "x": -2168.1220703125,
+            "y": -2497.1552734375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

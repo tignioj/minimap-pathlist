@@ -1,0 +1,204 @@
+{
+    "name": "石珀_影月月p12",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1515.912109375,
+            "y": -1526.0478515625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1466.456787109375,
+            "y": -1594.111328125
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1431.326171875,
+            "y": -1690.087890625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1423.278564453125,
+            "y": -1700.13671875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1500.87353515625,
+            "y": -1786.0810546875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1504.798583984375,
+            "y": -1800.65478515625
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1493.170654296875,
+            "y": -1863.87158203125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1547.2529296875,
+            "y": -1841.12109375
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1558.82958984375,
+            "y": -1867.3251953125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1603.669921875,
+            "y": -1829.93212890625
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1668.056640625,
+            "y": -1842.23486328125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1768.0712890625,
+            "y": -1857.06494140625
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1764.752197265625,
+            "y": -1893.66845703125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1780.23193359375,
+            "y": -1906.13232421875
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -1806.988037109375,
+            "y": -1920.1640625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1864.766845703125,
+            "y": -1951.53564453125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1896.364501953125,
+            "y": -1986.07080078125
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1890.64208984375,
+            "y": -2035.56201171875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1892.111572265625,
+            "y": -2020.6201171875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1751.826171875,
+            "y": -2035.76806640625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1716.276123046875,
+            "y": -2088.1767578125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1633.375244140625,
+            "y": -2122.5029296875
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1603.48388671875,
+            "y": -2072.150390625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1549.9619140625,
+            "y": -2087.32080078125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1435.5166015625,
+            "y": -2029.31884765625
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -1410.2197265625,
+            "y": -2024.93017578125
+        },
+        {
+            "x": -1381.166259765625,
+            "y": -2039.366111755371,
+            "type": "path",
+            "action": "stop_flying",
+            "move_mode": "fly"
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1369.52587890625,
+            "y": -2045.9443359375
+        }
+    ]
+}
