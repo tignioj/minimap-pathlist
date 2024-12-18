@@ -1,0 +1,71 @@
+{
+    "name": "石珀_影月月p8_奥藏山东偏远2",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1436.767578125,
+            "y": -3614.728515625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1417.605712890625,
+            "y": -3648.2177734375
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -1394.722412109375,
+            "y": -3684.706787109375
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -1384.215576171875,
+            "y": -3700.127685546875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1379.913818359375,
+            "y": -3715.37646484375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1353.7646484375,
+            "y": -3735.111572265625
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -1337.216552734375,
+            "y": -3799.470703125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1342.192138671875,
+            "y": -3796.804931640625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -1335.094970703125,
+            "y": -3793.45556640625
+        }
+    ]
+}

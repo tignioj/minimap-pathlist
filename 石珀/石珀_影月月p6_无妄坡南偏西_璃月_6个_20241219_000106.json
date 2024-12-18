@@ -1,0 +1,85 @@
+{
+    "name": "石珀_影月月p6_无妄坡南偏西",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -172.83544921875,
+            "y": -4131.59033203125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -146.64990234375,
+            "y": -4154.9716796875
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -125.1376953125,
+            "y": -4193.01513671875
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": -127.27392578125,
+            "y": -4195.310302734375
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -126.8251953125,
+            "y": -4195.289306640625
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -118.7880859375,
+            "y": -4196.61083984375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -122.13037109375,
+            "y": -4201.766357421875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -130.1767578125,
+            "y": -4208.720458984375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -137.39453125,
+            "y": -4191.685546875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -128.03173828125,
+            "y": -4190.698486328125
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -121.31201171875,
+            "y": -4191.1220703125
+        }
+    ]
+}
