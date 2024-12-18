@@ -1,0 +1,92 @@
+{
+    "name": "石珀_影月月p7_奥藏山东偏远1",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": -1436.690185546875,
+            "y": -3617.80322265625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1366.972412109375,
+            "y": -3608.2490234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1305.619140625,
+            "y": -3620.444580078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1266.67529296875,
+            "y": -3577.221923828125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1244.95849609375,
+            "y": -3572.216796875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": -1243.30029296875,
+            "y": -3576.17333984375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1207.1474609375,
+            "y": -3573.202392578125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1170.78857421875,
+            "y": -3615.237060546875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1126.109375,
+            "y": -3613.31884765625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": -1123.81689453125,
+            "y": -3620.270751953125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1095.5283203125,
+            "y": -3638.959228515625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": -1090.1416015625,
+            "y": -3641.64306640625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "name": "石珀_影月月p3_part3",
+    "anchor_name": "震雷连山密宫",
+    "country": "蒙德",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": 1623.67431640625,
+            "y": -2703.53857421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1616.4385986328125,
+            "y": -2678.42822265625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1588.3272705078125,
+            "y": -2668.25390625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1540.3076171875,
+            "y": -2685.9033203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1492.7796630859375,
+            "y": -2695.10888671875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1451.856201171875,
+            "y": -2724.2802734375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1443.277587890625,
+            "y": -2763.8203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1409.2354736328125,
+            "y": -2797.36083984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1384.5938720703125,
+            "y": -2840.0126953125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1403.393310546875,
+            "y": -2878.33154296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1446.8046875,
+            "y": -2907.7421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1453.0692138671875,
+            "y": -2923.57470703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1455.8282470703125,
+            "y": -2952.7119140625,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": 1460.2088623046875,
+            "y": -2950.2841796875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1450.0296630859375,
+            "y": -2960.9814453125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1451.9849853515625,
+            "y": -2966.30078125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": 1452.7130126953125,
+            "y": -2973.2490234375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": 1450.82666015625,
+            "y": -2973.1064453125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

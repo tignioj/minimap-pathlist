@@ -1,0 +1,43 @@
+{
+    "name": "石珀_影月月p5_轻策庄西南",
+    "anchor_name": "传送锚点",
+    "country": "璃月",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -891.9296875,
+            "y": -4299.801513671875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -902.74462890625,
+            "y": -4321.557373046875
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -906.48193359375,
+            "y": -4391.962890625
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "path",
+            "x": -882.44970703125,
+            "y": -4429.22802734375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": -881.4755859375,
+            "y": -4433.077880859375
+        }
+    ]
+}

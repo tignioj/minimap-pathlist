@@ -1,0 +1,141 @@
+{
+    "name": "石珀_影月月p7_奥藏山东北2",
+    "anchor_name": "华池岩岫",
+    "country": "璃月",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "x": -2073.888427734375,
+            "y": -3820.8935546875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -2095.860107421875,
+            "y": -3792.13720703125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -2127.7724609375,
+            "y": -3718.0234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -2114.937744140625,
+            "y": -3682.04833984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": -2104.94677734375,
+            "y": -3664.951904296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": -2105.93603515625,
+            "y": -3663.22900390625,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -2098.532470703125,
+            "y": -3673.6875,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -2093.77978515625,
+            "y": -3664.3740234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -2073.411865234375,
+            "y": -3653.715576171875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -2014.90576171875,
+            "y": -3675.958740234375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1988.8603515625,
+            "y": -3688.3857421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1965.00146484375,
+            "y": -3676.42529296875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": -1957.6875,
+            "y": -3673.395751953125,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1935.811279296875,
+            "y": -3674.93359375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1924.6279296875,
+            "y": -3646.250732421875,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1913.257080078125,
+            "y": -3600.445068359375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1884.894775390625,
+            "y": -3568.2783203125,
+            "type": "path",
+            "move_mode": "normal",
+            "action": ""
+        },
+        {
+            "x": -1876.27880859375,
+            "y": -3543.95458984375,
+            "type": "path",
+            "move_mode": "normal",
+            "action": "mining"
+        },
+        {
+            "x": -1878.36083984375,
+            "y": -3537.927734375,
+            "type": "target",
+            "move_mode": "normal",
+            "action": ""
+        }
+    ]
+}

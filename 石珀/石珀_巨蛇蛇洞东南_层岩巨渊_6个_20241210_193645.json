@@ -1,0 +1,71 @@
+{
+    "name": "石珀_巨蛇蛇洞东南",
+    "anchor_name": "传送锚点",
+    "country": "层岩巨渊",
+    "executor": "CollectPathExecutor",
+    "positions": [
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "path",
+            "x": 871.2802124023438,
+            "y": 703.3281860351562
+        },
+        {
+            "action": "",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 842.6719360351562,
+            "y": 709.7987670898438
+        },
+        {
+            "action": "stop_flying",
+            "move_mode": "fly",
+            "type": "path",
+            "x": 799.6358032226562,
+            "y": 713.6925659179688
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 804.3536987304688,
+            "y": 715.5573120117188
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 804.3536987304688,
+            "y": 715.5571899414062
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 803.6613159179688,
+            "y": 727.2300415039062
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 803.6649780273438,
+            "y": 727.2401123046875
+        },
+        {
+            "action": "mining",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 787.119873046875,
+            "y": 708.84130859375
+        },
+        {
+            "action": "",
+            "move_mode": "normal",
+            "type": "target",
+            "x": 787.120849609375,
+            "y": 708.8422241210938
+        }
+    ]
+}
